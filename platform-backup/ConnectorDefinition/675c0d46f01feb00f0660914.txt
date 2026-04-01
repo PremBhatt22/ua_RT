@@ -1,0 +1,15 @@
+{
+	"createdTime":1734085958192,
+	"deleted":false,
+	"enabled":false,
+	"id":"675c0d46f01feb00f0660914",
+	"lastModifiedBy":520,
+	"lcName":"asdsa",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1734085958192,
+	"name":"asdsa",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
