@@ -1,0 +1,19 @@
+{
+	"auths":[
+		
+	],
+	"baseUrl":"https://jfl-ossom-dev.jfletech.jfltechlabs.com/popeyes/api/v1",
+	"createdTime":1740835629460,
+	"deleted":false,
+	"enabled":true,
+	"id":"67c30b2dbd82424e0445ef02",
+	"lastModifiedBy":33860,
+	"lcName":"ossom ebu mobile native - adapter",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1740864200727,
+	"name":"Ossom EBU Mobile Native - Adapter",
+	"ownerUserId":33860,
+	"standard":false,
+	"standardApp":false,
+	"version":47
+}
