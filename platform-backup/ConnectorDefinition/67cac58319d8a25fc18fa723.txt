@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342083796,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac58319d8a25fc18fa723",
+	"lastModifiedBy":22743,
+	"lcName":"sncy7hc0ms%4140fisqn5dc",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342083796,
+	"name":"sncy7hc0ms%4140fisqn5dc",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
