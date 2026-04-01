@@ -1,0 +1,48 @@
+{
+	"auths":[
+		{
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"dc",
+			"type":"TOKEN"
+		},
+		{
+			"createdTime":1712145330783,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"test",
+			"type":"JWT",
+			"updatedTime":1712145330783
+		}
+	],
+	"createdTime":1711712218153,
+	"deleted":true,
+	"enabled":false,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"id":"6606a6cdbe8b405dee6d07d9",
+	"lastModifiedBy":34,
+	"lcName":"let there be custom connectors",
+	"modifiedTime":1714473742402,
+	"name":"let there be custom connectors",
+	"ownerUserId":174,
+	"standard":false,
+	"standardApp":false,
+	"version":35
+}
