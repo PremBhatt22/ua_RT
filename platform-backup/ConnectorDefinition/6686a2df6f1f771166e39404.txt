@@ -1,0 +1,21 @@
+{
+	"createdTime":1720099551009,
+	"deleted":false,
+	"description":"test",
+	"enabled":true,
+	"grants":{
+		"configs":[
+			
+		]
+	},
+	"id":"6686a2df6f1f771166e39404",
+	"lastModifiedBy":-1,
+	"lcName":"custom-app-abhay",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1721681183454,
+	"name":"custom-app-abhay",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":5
+}
