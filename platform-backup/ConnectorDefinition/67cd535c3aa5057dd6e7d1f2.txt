@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG",
+	"createdTime":1741509468491,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd535c3aa5057dd6e7d1f2",
+	"lastModifiedBy":22743,
+	"lcName":"frf2z{{282|add:749}}iozb7",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509468491,
+	"name":"frf2z{{282|add:749}}iozb7",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
