@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342194487,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5f219d8a25fc18fa829",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"...\\./...\\./...\\./...\\./...\\./...\\./...\\./...\\./...\\./...\\./windows/win.ini",
+	"modifiedTime":1741342194487,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
