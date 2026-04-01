@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG'|ping -c 21 127.0.0.1 #",
+	"createdTime":1741509534812,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd539e3aa5057dd6e7d3a8",
+	"lastModifiedBy":22743,
+	"lcName":"lhozsa",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509534812,
+	"name":"lhoZsa",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
