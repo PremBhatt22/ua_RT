@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG",
+	"createdTime":1741509543037,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd53a73aa5057dd6e7d3dd",
+	"lastModifiedBy":22743,
+	"lcName":"lhozsa",
+	"logo":"(select*from(select(sleep(20)))a)",
+	"modifiedTime":1741509543037,
+	"name":"lhoZsa",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
