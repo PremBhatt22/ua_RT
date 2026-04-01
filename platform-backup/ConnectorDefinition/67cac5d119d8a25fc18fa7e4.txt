@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342161058,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5d119d8a25fc18fa7e4",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"gfqcb[[370*284]]ox8u0",
+	"modifiedTime":1741342161058,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
