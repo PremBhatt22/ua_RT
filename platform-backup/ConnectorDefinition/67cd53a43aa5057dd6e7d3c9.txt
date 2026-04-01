@@ -1,0 +1,17 @@
+{
+	"baseUrl":"<rfn xmlns=\"http://a.b/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://a.b/ http://ujhy9d3oc1zt31crsajaf3ekrbx4lvbjb73uvik.oastify.com/rfn.xsd\">rfn</rfn>",
+	"createdTime":1741509540095,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd53a43aa5057dd6e7d3c9",
+	"lastModifiedBy":22743,
+	"lcName":"lhozsa",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509540095,
+	"name":"lhoZsa",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
