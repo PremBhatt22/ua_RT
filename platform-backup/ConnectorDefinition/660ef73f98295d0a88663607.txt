@@ -1,0 +1,46 @@
+{
+	"auths":[
+		{
+			"createdTime":1712256847350,
+			"description":"Let there be token auth",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"schema":{
+					"properties":{
+						"accessToken":{
+							"type":"string",
+							"title":"Access Token"
+						}
+					}
+				}
+			},
+			"name":"Token Auth",
+			"type":"TOKEN",
+			"updatedTime":1712256859528
+		}
+	],
+	"createdTime":1712256831615,
+	"deleted":true,
+	"description":"Let there be custom connectors",
+	"enabled":false,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"id":"660ef73f98295d0a88663607",
+	"lastModifiedBy":174,
+	"lcName":"customconnector",
+	"modifiedTime":1712257120225,
+	"name":"CustomConnector",
+	"ownerUserId":174,
+	"standard":false,
+	"standardApp":false,
+	"version":3
+}
