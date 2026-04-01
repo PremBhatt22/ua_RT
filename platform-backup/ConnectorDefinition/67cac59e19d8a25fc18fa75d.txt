@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342110766,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac59e19d8a25fc18fa75d",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\winnt\\win.ini",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342110766,
+	"name":"hsuDcq..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\winnt\\win.ini",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
