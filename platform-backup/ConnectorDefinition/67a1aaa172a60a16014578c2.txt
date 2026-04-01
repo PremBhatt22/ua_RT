@@ -1,0 +1,37 @@
+{
+	"auths":[
+		{
+			"createdTime":1738648241884,
+			"description":"Testing",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"admini",
+			"type":"CUSTOM",
+			"updatedTime":1738648268861
+		}
+	],
+	"baseUrl":"https://ig20stweax8lcciesppji7y5zw5ntdh2.oastify.com",
+	"createdTime":1738648225149,
+	"deleted":false,
+	"enabled":false,
+	"id":"67a1aaa172a60a16014578c2",
+	"lastModifiedBy":22743,
+	"lcName":"vishnu_testing",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1738648268862,
+	"name":"vishnu_testing",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":3
+}
