@@ -1,0 +1,15 @@
+{
+	"createdTime":1740735747187,
+	"deleted":true,
+	"enabled":false,
+	"id":"67c1850335fd152d6a1a4741",
+	"lastModifiedBy":33860,
+	"lcName":"ossom ebu mobile native - login",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1740735753345,
+	"name":"Ossom EBU Mobile Native - Login",
+	"ownerUserId":33860,
+	"standard":false,
+	"standardApp":false,
+	"version":1
+}
