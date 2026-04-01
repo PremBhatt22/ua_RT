@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342198187,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5f619d8a25fc18fa83f",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"<qwu xmlns=\"http://a.b/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://a.b/ http://dk1knrpkln0ddvaewcpe7ztvvm1fpgg4gs8fz3o.oastify.com/qwu.xsd\">qwu</qwu>",
+	"modifiedTime":1741342198187,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
