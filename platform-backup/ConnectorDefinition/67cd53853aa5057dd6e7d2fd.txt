@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG",
+	"createdTime":1741509509064,
+	"deleted":false,
+	"description":"..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini\u0000xPciEr",
+	"enabled":false,
+	"id":"67cd53853aa5057dd6e7d2fd",
+	"lastModifiedBy":22743,
+	"lcName":"lhozsa",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509509064,
+	"name":"lhoZsa",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
