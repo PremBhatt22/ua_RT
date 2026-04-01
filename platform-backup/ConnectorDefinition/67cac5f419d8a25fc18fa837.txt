@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342196948,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5f419d8a25fc18fa837",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"file:///etc/passwd",
+	"modifiedTime":1741342196948,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
