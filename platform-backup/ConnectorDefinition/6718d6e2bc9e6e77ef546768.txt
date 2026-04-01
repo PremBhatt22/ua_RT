@@ -1,0 +1,29 @@
+{
+	"auths":[
+		{
+			"createdTime":1729681138313,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"password",
+			"type":"TOKEN",
+			"updatedTime":1729681138313
+		}
+	],
+	"createdTime":1729681122748,
+	"deleted":false,
+	"enabled":true,
+	"id":"6718d6e2bc9e6e77ef546768",
+	"lastModifiedBy":1,
+	"lcName":"unifyapps tool",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1729681391329,
+	"name":"UnifyApps Tool",
+	"ownerUserId":1,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
