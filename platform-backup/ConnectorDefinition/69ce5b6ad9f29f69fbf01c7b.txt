@@ -4,12 +4,12 @@
 	"enabled":false,
 	"id":"69ce5b6ad9f29f69fbf01c7b",
 	"lastModifiedBy":195464,
-	"lcName":"hihihi",
+	"lcName":"hihihi hihihi",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775131498218,
-	"name":"hihihi",
+	"modifiedTime":1775131528576,
+	"name":"hihihi hihihi",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
