@@ -23,7 +23,7 @@
 			},
 			"name":"ApiKeyHeaderAuth",
 			"type":"TOKEN",
-			"updatedTime":1775160091151
+			"updatedTime":1775160096458
 		}
 	],
 	"createdTime":1775160053791,
@@ -33,10 +33,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"apikeyheaderconnector2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775160091152,
+	"modifiedTime":1775160096459,
 	"name":"ApiKeyHeaderConnector2",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":3
 }
