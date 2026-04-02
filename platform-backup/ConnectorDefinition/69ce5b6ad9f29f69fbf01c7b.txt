@@ -1,0 +1,15 @@
+{
+	"createdTime":1775131498218,
+	"deleted":false,
+	"enabled":false,
+	"id":"69ce5b6ad9f29f69fbf01c7b",
+	"lastModifiedBy":195464,
+	"lcName":"hihihi",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775131498218,
+	"name":"hihihi",
+	"ownerUserId":195464,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
