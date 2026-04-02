@@ -16,20 +16,20 @@
 			},
 			"name":"BearerToken",
 			"type":"TOKEN",
-			"updatedTime":1775158088266
+			"updatedTime":1775159257094
 		}
 	],
 	"createdTime":1775157946591,
 	"deleted":false,
-	"enabled":false,
+	"enabled":true,
 	"id":"69cec2ba415b67367e187e06",
 	"lastModifiedBy":39714,
 	"lcName":"testingwithbearer",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775158088268,
+	"modifiedTime":1775159257095,
 	"name":"testingWithBearer",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":6
+	"version":11
 }
