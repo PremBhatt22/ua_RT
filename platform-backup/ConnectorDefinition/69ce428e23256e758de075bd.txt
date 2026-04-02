@@ -35,13 +35,13 @@
 	"deleted":false,
 	"enabled":false,
 	"id":"69ce428e23256e758de075bd",
-	"lastModifiedBy":39712,
-	"lcName":"testconn",
+	"lastModifiedBy":195464,
+	"lcName":"testconhfghn",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775128887931,
-	"name":"testconn",
+	"modifiedTime":1775130628434,
+	"name":"testconhfghn",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":7
+	"version":8
 }
