@@ -1,4 +1,18 @@
 {
+	"auths":[
+		{
+			"createdTime":1775158484660,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"ApiKeyHeader",
+			"type":"TOKEN",
+			"updatedTime":1775158484660
+		}
+	],
 	"createdTime":1775158469432,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +20,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"testingwithapikeyheader",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775158469432,
+	"modifiedTime":1775158484662,
 	"name":"testingWithAPIKeyHeader",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
