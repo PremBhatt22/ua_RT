@@ -6,11 +6,24 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"input":{
+							"type":"string",
+							"title":"Input"
+						}
+					},
+					"required":[]
+				}
 			},
 			"name":"ApiKeyHeaderAuth",
 			"type":"TOKEN",
-			"updatedTime":1775160067723
+			"updatedTime":1775160091151
 		}
 	],
 	"createdTime":1775160053791,
@@ -20,10 +33,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"apikeyheaderconnector2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775160067724,
+	"modifiedTime":1775160091152,
 	"name":"ApiKeyHeaderConnector2",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
