@@ -1,0 +1,15 @@
+{
+	"createdTime":1775158800750,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cec610415b67367e1884e3",
+	"lastModifiedBy":39714,
+	"lcName":"testingwithapikeyqueryparam",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775158800750,
+	"name":"testingWithAPIKeyQueryParam",
+	"ownerUserId":39714,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
