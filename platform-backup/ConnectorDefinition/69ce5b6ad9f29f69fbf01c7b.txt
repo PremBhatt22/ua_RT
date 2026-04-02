@@ -35,13 +35,13 @@
 	"deleted":false,
 	"enabled":false,
 	"id":"69ce5b6ad9f29f69fbf01c7b",
-	"lastModifiedBy":67744,
-	"lcName":"hihihi hihihi",
+	"lastModifiedBy":195464,
+	"lcName":"hihihi hihihi edit - 02",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775131620576,
-	"name":"hihihi hihihi",
+	"modifiedTime":1775133266705,
+	"name":"hihihi hihihi edit - 02",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":4
+	"version":5
 }
