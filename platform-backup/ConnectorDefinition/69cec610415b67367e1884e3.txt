@@ -16,7 +16,7 @@
 			},
 			"name":"ApiKeyQueryParam",
 			"type":"TOKEN",
-			"updatedTime":1775158829163
+			"updatedTime":1775158862917
 		}
 	],
 	"createdTime":1775158800750,
@@ -26,10 +26,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"testingwithapikeyqueryparam",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775158829164,
+	"modifiedTime":1775158862918,
 	"name":"testingWithAPIKeyQueryParam",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":4
 }
