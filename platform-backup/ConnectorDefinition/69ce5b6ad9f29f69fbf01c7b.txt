@@ -33,16 +33,16 @@
 	],
 	"createdTime":1775131498218,
 	"deleted":false,
-	"description":"Edit desc - new",
+	"description":"Edit desc - new - hahaha",
 	"enabled":false,
 	"id":"69ce5b6ad9f29f69fbf01c7b",
 	"lastModifiedBy":195464,
 	"lcName":"hihihi hihihi edit - 04",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775145910993,
+	"modifiedTime":1775148402696,
 	"name":"hihihi hihihi edit - 04",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":7
+	"version":8
 }
