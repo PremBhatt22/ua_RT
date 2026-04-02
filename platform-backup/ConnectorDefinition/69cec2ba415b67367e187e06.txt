@@ -1,0 +1,15 @@
+{
+	"createdTime":1775157946591,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cec2ba415b67367e187e06",
+	"lastModifiedBy":39714,
+	"lcName":"testingwithbearer",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775157946591,
+	"name":"testingWithBearer",
+	"ownerUserId":39714,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
