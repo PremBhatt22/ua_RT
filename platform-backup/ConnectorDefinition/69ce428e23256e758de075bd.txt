@@ -1,6 +1,18 @@
 {
 	"auths":[
 		{
+			"createdTime":1775125944517,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"test",
+			"type":"AUTH_10_A",
+			"updatedTime":1775125944517
+		},
+		{
 			"createdTime":1775125166005,
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
@@ -16,20 +28,20 @@
 			},
 			"name":"oauth",
 			"type":"OAUTH",
-			"updatedTime":1775125277806
+			"updatedTime":1775128538155
 		}
 	],
 	"createdTime":1775125134406,
 	"deleted":false,
 	"enabled":false,
 	"id":"69ce428e23256e758de075bd",
-	"lastModifiedBy":687,
+	"lastModifiedBy":39712,
 	"lcName":"testconn",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775125277807,
+	"modifiedTime":1775128538159,
 	"name":"testconn",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":4
 }
