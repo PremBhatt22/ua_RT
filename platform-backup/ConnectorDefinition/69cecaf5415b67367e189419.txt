@@ -1,0 +1,15 @@
+{
+	"createdTime":1775160053791,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cecaf5415b67367e189419",
+	"lastModifiedBy":39714,
+	"lcName":"apikeyheaderconnector2",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775160053791,
+	"name":"ApiKeyHeaderConnector2",
+	"ownerUserId":39714,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
