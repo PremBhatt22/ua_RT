@@ -1,4 +1,18 @@
 {
+	"auths":[
+		{
+			"createdTime":1775122497960,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"mjhk",
+			"type":"OAUTH",
+			"updatedTime":1775122497960
+		}
+	],
 	"createdTime":1775122465780,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +20,10 @@
 	"lastModifiedBy":196190,
 	"lcName":"nkjk",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775122465780,
+	"modifiedTime":1775122497961,
 	"name":"nkjk",
 	"ownerUserId":196190,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
