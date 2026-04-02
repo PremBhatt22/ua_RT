@@ -16,7 +16,7 @@
 			},
 			"name":"BearerToken",
 			"type":"TOKEN",
-			"updatedTime":1775158053442
+			"updatedTime":1775158061483
 		}
 	],
 	"createdTime":1775157946591,
@@ -26,10 +26,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"testingwithbearer",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775158053443,
+	"modifiedTime":1775158061485,
 	"name":"testingWithBearer",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":4
+	"version":5
 }
