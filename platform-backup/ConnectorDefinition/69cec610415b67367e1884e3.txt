@@ -6,11 +6,17 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"ApiKeyQueryParam",
 			"type":"TOKEN",
-			"updatedTime":1775158819252
+			"updatedTime":1775158826952
 		}
 	],
 	"createdTime":1775158800750,
@@ -20,10 +26,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"testingwithapikeyqueryparam",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775158819253,
+	"modifiedTime":1775158826954,
 	"name":"testingWithAPIKeyQueryParam",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
