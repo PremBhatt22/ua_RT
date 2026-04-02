@@ -36,12 +36,12 @@
 	"enabled":false,
 	"id":"69ce428e23256e758de075bd",
 	"lastModifiedBy":195464,
-	"lcName":"testconhfghn",
+	"lcName":"testcon",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775130628434,
-	"name":"testconhfghn",
+	"modifiedTime":1775131469547,
+	"name":"testcon",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":8
+	"version":9
 }
