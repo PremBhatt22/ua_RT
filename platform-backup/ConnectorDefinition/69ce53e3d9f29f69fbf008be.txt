@@ -16,7 +16,7 @@
 			},
 			"name":"test",
 			"type":"OAUTH",
-			"updatedTime":1775129752578
+			"updatedTime":1775129757677
 		}
 	],
 	"createdTime":1775129571944,
@@ -26,10 +26,10 @@
 	"lastModifiedBy":39712,
 	"lcName":"yuyu",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775129752579,
+	"modifiedTime":1775129757678,
 	"name":"yuyu",
 	"ownerUserId":39712,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":4
 }
