@@ -1,4 +1,18 @@
 {
+	"auths":[
+		{
+			"createdTime":1775131731175,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"jay kumar",
+			"type":"OAUTH",
+			"updatedTime":1775131731175
+		}
+	],
 	"createdTime":1775131702298,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +20,10 @@
 	"lastModifiedBy":195956,
 	"lcName":"gvtfc7r6tcgiyctfrudu",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775131702298,
+	"modifiedTime":1775131731176,
 	"name":"gvtfc7r6tcgiyctfrudu",
 	"ownerUserId":195956,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
