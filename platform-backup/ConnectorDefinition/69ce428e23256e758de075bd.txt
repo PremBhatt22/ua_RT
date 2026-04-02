@@ -28,20 +28,20 @@
 			},
 			"name":"oauth",
 			"type":"OAUTH",
-			"updatedTime":1775139140163
+			"updatedTime":1775144331229
 		}
 	],
 	"createdTime":1775125134406,
 	"deleted":false,
-	"enabled":false,
+	"enabled":true,
 	"id":"69ce428e23256e758de075bd",
-	"lastModifiedBy":687,
+	"lastModifiedBy":195464,
 	"lcName":"testcon",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775139140164,
+	"modifiedTime":1775144331239,
 	"name":"testcon",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":22
+	"version":24
 }
