@@ -6,24 +6,30 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"jay kumar",
 			"type":"OAUTH",
-			"updatedTime":1775131731175
+			"updatedTime":1775132848311
 		}
 	],
 	"createdTime":1775131702298,
 	"deleted":false,
 	"enabled":false,
 	"id":"69ce5c36d9f29f69fbf0203d",
-	"lastModifiedBy":195956,
+	"lastModifiedBy":67744,
 	"lcName":"gvtfc7r6tcgiyctfrudu",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775131731176,
+	"modifiedTime":1775132848312,
 	"name":"gvtfc7r6tcgiyctfrudu",
 	"ownerUserId":195956,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
