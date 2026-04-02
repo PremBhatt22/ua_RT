@@ -1,0 +1,15 @@
+{
+	"createdTime":1775107832043,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cdfef8db91a13af33c3b4c",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2slack4929988763",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775107832043,
+	"name":"changeSetQA2slack4929988763",
+	"ownerUserId":175325,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
