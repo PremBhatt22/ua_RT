@@ -28,7 +28,7 @@
 			},
 			"name":"oauth",
 			"type":"OAUTH",
-			"updatedTime":1775128551563
+			"updatedTime":1775128870927
 		}
 	],
 	"createdTime":1775125134406,
@@ -38,10 +38,10 @@
 	"lastModifiedBy":39712,
 	"lcName":"testconn",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775128551564,
+	"modifiedTime":1775128870928,
 	"name":"testconn",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":5
+	"version":6
 }
