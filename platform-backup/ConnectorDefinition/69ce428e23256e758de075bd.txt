@@ -23,6 +23,18 @@
 			"name":"qwerty",
 			"type":"BASIC",
 			"updatedTime":1775192661573
+		},
+		{
+			"createdTime":1775192709777,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"grant type dev",
+			"type":"OAUTH",
+			"updatedTime":1775192709777
 		}
 	],
 	"createdTime":1775125134406,
@@ -32,10 +44,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"testcon",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775192683682,
+	"modifiedTime":1775192709779,
 	"name":"testcon",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":34
+	"version":35
 }
