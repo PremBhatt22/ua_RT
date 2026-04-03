@@ -6,11 +6,31 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"key":{
+							"type":"string",
+							"title":"Key"
+						},
+						"value":{
+							"type":"string",
+							"title":"Value"
+						}
+					},
+					"required":[
+						"key",
+						"value"
+					]
+				}
 			},
 			"name":"sdkWithNonBearerTokenInQueryParam",
 			"type":"TOKEN",
-			"updatedTime":1775203663345
+			"updatedTime":1775203678345
 		}
 	],
 	"createdTime":1775203650466,
@@ -20,10 +40,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"sdkwithnonbearertokenqueryparam",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775203663346,
+	"modifiedTime":1775203678346,
 	"name":"sdkWithNonBearerTokenQueryParam",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
