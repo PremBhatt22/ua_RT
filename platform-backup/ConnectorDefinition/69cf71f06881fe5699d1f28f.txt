@@ -6,11 +6,17 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"oa",
 			"type":"OAUTH",
-			"updatedTime":1775202811832
+			"updatedTime":1775202987712
 		}
 	],
 	"createdTime":1775202800344,
@@ -20,10 +26,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"newpremnew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775202811833,
+	"modifiedTime":1775202987713,
 	"name":"newpremnew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
