@@ -6,11 +6,28 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"key":{
+							"type":"string",
+							"title":"Key"
+						},
+						"value":{
+							"type":"string",
+							"title":"Value"
+						}
+					},
+					"required":[]
+				}
 			},
 			"name":"NonBearerTokeninHeaderAuth",
 			"type":"TOKEN",
-			"updatedTime":1775203224976
+			"updatedTime":1775203249045
 		}
 	],
 	"createdTime":1775203203858,
@@ -20,10 +37,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"sdkwithnonbearertokeninheader",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775203224977,
+	"modifiedTime":1775203249046,
 	"name":"sdkWithNonBearerTokenInHeader",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
