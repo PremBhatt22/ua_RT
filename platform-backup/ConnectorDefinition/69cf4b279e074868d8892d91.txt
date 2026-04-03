@@ -21,15 +21,15 @@
 	],
 	"createdTime":1775192871483,
 	"deleted":false,
-	"enabled":false,
+	"enabled":true,
 	"id":"69cf4b279e074868d8892d91",
 	"lastModifiedBy":196465,
-	"lcName":"test",
+	"lcName":"test_akshaj2342",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775197129646,
-	"name":"test",
+	"modifiedTime":1775197331938,
+	"name":"test_akshaj2342",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":4
+	"version":11
 }
