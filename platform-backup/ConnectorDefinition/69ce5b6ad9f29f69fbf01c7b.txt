@@ -24,11 +24,17 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"ooaa2",
 			"type":"OAUTH",
-			"updatedTime":1775200723660
+			"updatedTime":1775200916167
 		}
 	],
 	"createdTime":1775131498218,
@@ -39,10 +45,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"hihihi hihihi edit - 05",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775200723661,
+	"modifiedTime":1775200916168,
 	"name":"hihihi hihihi edit - 05",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":17
+	"version":18
 }
