@@ -1,4 +1,18 @@
 {
+	"auths":[
+		{
+			"createdTime":1775203663345,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"sdkWithNonBearerTokenInQueryParam",
+			"type":"TOKEN",
+			"updatedTime":1775203663345
+		}
+	],
 	"createdTime":1775203650466,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +20,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"sdkwithnonbearertokenqueryparam",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775203650466,
+	"modifiedTime":1775203663346,
 	"name":"sdkWithNonBearerTokenQueryParam",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
