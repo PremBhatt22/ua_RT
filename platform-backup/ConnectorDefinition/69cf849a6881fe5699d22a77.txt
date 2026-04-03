@@ -1,16 +1,16 @@
 {
 	"auths":[
 		{
-			"createdTime":1775208873808,
+			"createdTime":1775211321542,
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
 				"schema":{}
 			},
-			"name":"test",
-			"type":"OAUTH",
-			"updatedTime":1775208873808
+			"name":"kk",
+			"type":"AUTH_10_A",
+			"updatedTime":1775211321542
 		},
 		{
 			"createdTime":1775210953320,
@@ -25,16 +25,22 @@
 			"updatedTime":1775210953320
 		},
 		{
-			"createdTime":1775211321542,
+			"createdTime":1775208873808,
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
-			"name":"kk",
-			"type":"AUTH_10_A",
-			"updatedTime":1775211321542
+			"name":"test",
+			"type":"OAUTH",
+			"updatedTime":1775211678810
 		}
 	],
 	"createdTime":1775207578738,
@@ -44,10 +50,10 @@
 	"lastModifiedBy":67744,
 	"lcName":"tevdaygh",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775211321543,
+	"modifiedTime":1775211678812,
 	"name":"tevdaygh",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":4
 }
