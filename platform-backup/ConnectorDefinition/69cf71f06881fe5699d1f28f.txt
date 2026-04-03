@@ -16,7 +16,7 @@
 			},
 			"name":"TEST_PREM",
 			"type":"OAUTH",
-			"updatedTime":1775210151441
+			"updatedTime":1775211374092
 		}
 	],
 	"createdTime":1775202800344,
@@ -26,10 +26,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"newpremnew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775210151441,
+	"modifiedTime":1775211374093,
 	"name":"newpremnew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":12
+	"version":13
 }
