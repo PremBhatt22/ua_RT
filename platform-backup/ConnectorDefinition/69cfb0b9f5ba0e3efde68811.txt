@@ -1,0 +1,16 @@
+{
+	"baseUrl":"https://google.com",
+	"createdTime":1775218873963,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cfb0b9f5ba0e3efde68811",
+	"lastModifiedBy":687,
+	"lcName":"tempconn",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775218873963,
+	"name":"tempConn",
+	"ownerUserId":687,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
