@@ -16,7 +16,7 @@
 			},
 			"name":"trestoath",
 			"type":"OAUTH",
-			"updatedTime":1775197129644
+			"updatedTime":1775199496984
 		}
 	],
 	"createdTime":1775192871483,
@@ -26,10 +26,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"test_akshaj2342",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775197331938,
+	"modifiedTime":1775199496990,
 	"name":"test_akshaj2342",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":11
+	"version":12
 }
