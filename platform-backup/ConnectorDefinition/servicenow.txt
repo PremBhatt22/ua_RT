@@ -1,0 +1,15 @@
+{
+	"createdTime":1763571841995,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":true,
+	"id":"servicenow",
+	"lastModifiedBy":197577,
+	"lcName":"servicenow",
+	"modifiedTime":1775244739820,
+	"name":"ServiceNow",
+	"ownerUserId":161930,
+	"standard":false,
+	"standardApp":true,
+	"version":5
+}
