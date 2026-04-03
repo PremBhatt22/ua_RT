@@ -1,0 +1,15 @@
+{
+	"createdTime":1775203445352,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cf74756881fe5699d1f85b",
+	"lastModifiedBy":39714,
+	"lcName":"sdkwithnonbearertokeninheader",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775203445352,
+	"name":"sdkWithNonBearerTokenInHeader",
+	"ownerUserId":39714,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
