@@ -1,23 +1,6 @@
 {
 	"auths":[
-		{
-			"createdTime":1775202811832,
-			"input":{
-				"type":"SCHEMA_AND_LAYOUT",
-				"dynamic":false,
-				"layout":{},
-				"schema":{
-					"type":"object",
-					"ua:modal":{
-						"field_type":"STRING",
-						"is_optional":false
-					}
-				}
-			},
-			"name":"oa",
-			"type":"OAUTH",
-			"updatedTime":1775207105831
-		}
+		
 	],
 	"createdTime":1775202800344,
 	"deleted":false,
@@ -26,10 +9,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"newpremnew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775207105832,
+	"modifiedTime":1775209219201,
 	"name":"newpremnew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":5
+	"version":6
 }
