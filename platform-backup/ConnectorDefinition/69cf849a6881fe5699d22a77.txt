@@ -11,6 +11,18 @@
 			"name":"test",
 			"type":"OAUTH",
 			"updatedTime":1775208873808
+		},
+		{
+			"createdTime":1775210953320,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"test",
+			"type":"CUSTOM",
+			"updatedTime":1775210953320
 		}
 	],
 	"createdTime":1775207578738,
@@ -20,10 +32,10 @@
 	"lastModifiedBy":39712,
 	"lcName":"tevdaygh",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775208873808,
+	"modifiedTime":1775210953321,
 	"name":"tevdaygh",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
