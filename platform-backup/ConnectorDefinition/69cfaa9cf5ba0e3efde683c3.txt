@@ -3,13 +3,13 @@
 	"deleted":false,
 	"enabled":false,
 	"id":"69cfaa9cf5ba0e3efde683c3",
-	"lastModifiedBy":67744,
+	"lastModifiedBy":687,
 	"lcName":"testing",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775217489194,
+	"modifiedTime":1775218396790,
 	"name":"testing",
 	"ownerUserId":67744,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":3
 }
