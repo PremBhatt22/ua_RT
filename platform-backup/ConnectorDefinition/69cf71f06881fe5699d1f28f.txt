@@ -1,0 +1,15 @@
+{
+	"createdTime":1775202800344,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cf71f06881fe5699d1f28f",
+	"lastModifiedBy":195464,
+	"lcName":"newpremnew",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775202800344,
+	"name":"newpremnew",
+	"ownerUserId":195464,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
