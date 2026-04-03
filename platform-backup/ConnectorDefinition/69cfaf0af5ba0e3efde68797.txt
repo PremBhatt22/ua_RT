@@ -4,13 +4,13 @@
 	"deleted":false,
 	"enabled":false,
 	"id":"69cfaf0af5ba0e3efde68797",
-	"lastModifiedBy":687,
+	"lastModifiedBy":67744,
 	"lcName":"fsff",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775218442792,
+	"modifiedTime":1775218483700,
 	"name":"fsff",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
