@@ -23,13 +23,13 @@
 	"deleted":false,
 	"enabled":true,
 	"id":"69cf4b279e074868d8892d91",
-	"lastModifiedBy":196465,
-	"lcName":"test_akshaj2342",
-	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775199517894,
-	"name":"test_akshaj2342",
+	"lastModifiedBy":195463,
+	"lcName":"test_akshaj2343",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_02.svg",
+	"modifiedTime":1775232655197,
+	"name":"test_akshaj2343",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":14
+	"version":16
 }
