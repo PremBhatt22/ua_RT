@@ -34,7 +34,7 @@
 			},
 			"name":"ooaa2",
 			"type":"OAUTH",
-			"updatedTime":1775200916167
+			"updatedTime":1775201051820
 		}
 	],
 	"createdTime":1775131498218,
@@ -45,10 +45,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"hihihi hihihi edit - 05",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775200916168,
+	"modifiedTime":1775201051821,
 	"name":"hihihi hihihi edit - 05",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":18
+	"version":19
 }
