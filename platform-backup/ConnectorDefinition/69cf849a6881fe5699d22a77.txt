@@ -23,19 +23,31 @@
 			"name":"test",
 			"type":"CUSTOM",
 			"updatedTime":1775210953320
+		},
+		{
+			"createdTime":1775211321542,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"kk",
+			"type":"AUTH_10_A",
+			"updatedTime":1775211321542
 		}
 	],
 	"createdTime":1775207578738,
 	"deleted":false,
 	"enabled":false,
 	"id":"69cf849a6881fe5699d22a77",
-	"lastModifiedBy":39712,
+	"lastModifiedBy":67744,
 	"lcName":"tevdaygh",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775210953321,
+	"modifiedTime":1775211321543,
 	"name":"tevdaygh",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":3
 }
