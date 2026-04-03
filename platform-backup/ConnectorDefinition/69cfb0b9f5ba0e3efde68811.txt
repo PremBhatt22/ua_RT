@@ -18,13 +18,13 @@
 	"deleted":false,
 	"enabled":false,
 	"id":"69cfb0b9f5ba0e3efde68811",
-	"lastModifiedBy":4130,
-	"lcName":"tempconn",
+	"lastModifiedBy":687,
+	"lcName":"tempconn2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775219408011,
-	"name":"tempConn",
+	"modifiedTime":1775221215832,
+	"name":"tempConn2",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":4
 }
