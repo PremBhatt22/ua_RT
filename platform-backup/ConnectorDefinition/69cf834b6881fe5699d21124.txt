@@ -16,7 +16,7 @@
 			},
 			"name":"test",
 			"type":"OAUTH",
-			"updatedTime":1775207294561
+			"updatedTime":1775207308996
 		}
 	],
 	"createdTime":1775207243146,
@@ -26,10 +26,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"tets_aksajsj",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775207294562,
+	"modifiedTime":1775207308997,
 	"name":"tets_aksajsj",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":4
 }
