@@ -17,24 +17,6 @@
 			"name":"wew",
 			"type":"TOKEN",
 			"updatedTime":1775131594142
-		},
-		{
-			"createdTime":1775197021381,
-			"input":{
-				"type":"SCHEMA_AND_LAYOUT",
-				"dynamic":false,
-				"layout":{},
-				"schema":{
-					"type":"object",
-					"ua:modal":{
-						"field_type":"STRING",
-						"is_optional":false
-					}
-				}
-			},
-			"name":"ooaa2",
-			"type":"OAUTH",
-			"updatedTime":1775201187178
 		}
 	],
 	"createdTime":1775131498218,
@@ -45,10 +27,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"hihihi hihihi edit - 05",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775201187179,
+	"modifiedTime":1775202704983,
 	"name":"hihihi hihihi edit - 05",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":21
+	"version":22
 }
