@@ -29,6 +29,18 @@
 			"name":"rttyry",
 			"type":"AUTH_10_A",
 			"updatedTime":1775211926124
+		},
+		{
+			"createdTime":1775212169871,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"dfs",
+			"type":"JWT",
+			"updatedTime":1775212169871
 		}
 	],
 	"createdTime":1775207243146,
@@ -38,10 +50,10 @@
 	"lastModifiedBy":67744,
 	"lcName":"tets_aksajsj",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775211926125,
+	"modifiedTime":1775212169872,
 	"name":"tets_aksajsj",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":5
+	"version":6
 }
