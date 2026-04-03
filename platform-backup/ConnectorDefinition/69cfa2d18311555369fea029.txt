@@ -26,19 +26,31 @@
 			"name":"Auth8093884945",
 			"type":"TOKEN",
 			"updatedTime":1775215320614
+		},
+		{
+			"createdTime":1775216027378,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"test",
+			"type":"OAUTH",
+			"updatedTime":1775216027378
 		}
 	],
 	"createdTime":1775215830590,
 	"deleted":false,
 	"enabled":true,
 	"id":"69cfa2d18311555369fea029",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":39714,
 	"lcName":"changesetqa2shopifyget3071622892",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775215830590,
+	"modifiedTime":1775216027380,
 	"name":"changeSetQA2shopifyget3071622892",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":5
 }
