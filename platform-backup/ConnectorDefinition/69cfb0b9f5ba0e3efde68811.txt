@@ -1,16 +1,30 @@
 {
+	"auths":[
+		{
+			"createdTime":1775219408010,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"Test",
+			"type":"OAUTH",
+			"updatedTime":1775219408010
+		}
+	],
 	"baseUrl":"https://google.com",
 	"createdTime":1775218873963,
 	"deleted":false,
 	"enabled":false,
 	"id":"69cfb0b9f5ba0e3efde68811",
-	"lastModifiedBy":687,
+	"lastModifiedBy":4130,
 	"lcName":"tempconn",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775218928788,
+	"modifiedTime":1775219408011,
 	"name":"tempConn",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":3
 }
