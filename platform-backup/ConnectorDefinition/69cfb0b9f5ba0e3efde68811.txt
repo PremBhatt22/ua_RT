@@ -7,10 +7,10 @@
 	"lastModifiedBy":687,
 	"lcName":"tempconn",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775218873963,
+	"modifiedTime":1775218918037,
 	"name":"tempConn",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
