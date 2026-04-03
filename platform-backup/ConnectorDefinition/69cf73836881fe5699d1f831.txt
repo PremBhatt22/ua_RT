@@ -27,7 +27,7 @@
 			},
 			"name":"NonBearerTokeninHeaderAuth",
 			"type":"TOKEN",
-			"updatedTime":1775203249045
+			"updatedTime":1775203251970
 		}
 	],
 	"createdTime":1775203203858,
@@ -37,10 +37,10 @@
 	"lastModifiedBy":39714,
 	"lcName":"sdkwithnonbearertokeninheader",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775203249046,
+	"modifiedTime":1775203251971,
 	"name":"sdkWithNonBearerTokenInHeader",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":3
 }
