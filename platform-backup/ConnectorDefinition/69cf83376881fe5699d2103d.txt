@@ -1,0 +1,15 @@
+{
+	"createdTime":1775207223459,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cf83376881fe5699d2103d",
+	"lastModifiedBy":196465,
+	"lcName":"etst_akshja",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775207223459,
+	"name":"etst_akshja",
+	"ownerUserId":196465,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
