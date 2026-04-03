@@ -1,0 +1,15 @@
+{
+	"createdTime":1775218758521,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cfb046f5ba0e3efde687ed",
+	"lastModifiedBy":687,
+	"lcName":"dcssv",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775218758521,
+	"name":"dcssv",
+	"ownerUserId":687,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
