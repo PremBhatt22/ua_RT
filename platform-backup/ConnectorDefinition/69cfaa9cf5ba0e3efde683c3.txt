@@ -6,10 +6,10 @@
 	"lastModifiedBy":67744,
 	"lcName":"testing",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775217379954,
+	"modifiedTime":1775217489194,
 	"name":"testing",
 	"ownerUserId":67744,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
