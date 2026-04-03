@@ -1,0 +1,15 @@
+{
+	"createdTime":1775198561733,
+	"deleted":false,
+	"enabled":false,
+	"id":"69cf61619e074868d8894e02",
+	"lastModifiedBy":48343,
+	"lcName":"sdk7712",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775198561733,
+	"name":"sdk7712",
+	"ownerUserId":48343,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
