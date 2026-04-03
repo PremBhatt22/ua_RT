@@ -20,11 +20,11 @@
 	"id":"69cfb0b9f5ba0e3efde68811",
 	"lastModifiedBy":687,
 	"lcName":"tempconn2",
-	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775221215832,
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_02.svg",
+	"modifiedTime":1775221236681,
 	"name":"tempConn2",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":4
+	"version":5
 }
