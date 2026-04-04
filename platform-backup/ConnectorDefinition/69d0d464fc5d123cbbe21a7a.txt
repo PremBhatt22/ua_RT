@@ -6,24 +6,30 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"Oauth ",
 			"type":"OAUTH",
-			"updatedTime":1775293609588
+			"updatedTime":1775312785911
 		}
 	],
 	"createdTime":1775293540544,
 	"deleted":false,
-	"enabled":false,
+	"enabled":true,
 	"id":"69d0d464fc5d123cbbe21a7a",
-	"lastModifiedBy":46218,
+	"lastModifiedBy":39712,
 	"lcName":"oauth 2.0 test",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775293609589,
+	"modifiedTime":1775312785935,
 	"name":"oauth 2.0 test",
 	"ownerUserId":46218,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":4
 }
