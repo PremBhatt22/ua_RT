@@ -16,21 +16,21 @@
 			},
 			"name":"newOAuth",
 			"type":"OAUTH",
-			"updatedTime":1775293915151
+			"updatedTime":1775294026733
 		}
 	],
 	"createdTime":1775293863664,
 	"deleted":false,
 	"description":"For testing and development",
-	"enabled":false,
+	"enabled":true,
 	"id":"69d0d5a7fc5d123cbbe21ac3",
 	"lastModifiedBy":195464,
 	"lcName":"oauthprem",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775293915152,
+	"modifiedTime":1775294026734,
 	"name":"oAuthPrem",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":4
 }
