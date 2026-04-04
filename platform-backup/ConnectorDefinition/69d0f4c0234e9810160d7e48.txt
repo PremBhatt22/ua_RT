@@ -16,7 +16,7 @@
 			},
 			"name":"new",
 			"type":"TOKEN",
-			"updatedTime":1775301998498
+			"updatedTime":1775302006604
 		}
 	],
 	"createdTime":1775301824022,
@@ -26,10 +26,10 @@
 	"lastModifiedBy":426,
 	"lcName":"dnd_abhay",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775301998499,
+	"modifiedTime":1775302006606,
 	"name":"dnd_abhay",
 	"ownerUserId":426,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":3
 }
