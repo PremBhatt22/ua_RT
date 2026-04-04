@@ -17,19 +17,31 @@
 			"name":"test",
 			"type":"OAUTH",
 			"updatedTime":1775300400437
+		},
+		{
+			"createdTime":1775300684071,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"test",
+			"type":"TOKEN",
+			"updatedTime":1775300684071
 		}
 	],
 	"createdTime":1775300342653,
 	"deleted":false,
 	"enabled":false,
 	"id":"69d0eef6234e9810160d7987",
-	"lastModifiedBy":39712,
+	"lastModifiedBy":39714,
 	"lcName":"test",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775300400440,
+	"modifiedTime":1775300684073,
 	"name":"test",
 	"ownerUserId":39712,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":4
 }
