@@ -13,7 +13,7 @@
 			"updatedTime":1775219408010
 		}
 	],
-	"baseUrl":"https://rhythm2.com",
+	"baseUrl":"https://test.com",
 	"createdTime":1775218873963,
 	"deleted":false,
 	"enabled":false,
@@ -21,10 +21,10 @@
 	"lastModifiedBy":687,
 	"lcName":"tempconn2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_02.svg",
-	"modifiedTime":1775233642723,
+	"modifiedTime":1775294603568,
 	"name":"tempConn2",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":10
+	"version":11
 }
