@@ -2,6 +2,7 @@
 	"auths":[
 		{
 			"createdTime":1775306606589,
+			"grantType":"AUTHORIZATION_CODE",
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
@@ -16,7 +17,7 @@
 			},
 			"name":"hello",
 			"type":"OAUTH",
-			"updatedTime":1775306621545
+			"updatedTime":1775306672679
 		}
 	],
 	"createdTime":1775297405690,
@@ -26,10 +27,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"connectorchecknew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775306621546,
+	"modifiedTime":1775306672680,
 	"name":"ConnectorCheckNew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":22
+	"version":23
 }
