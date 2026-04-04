@@ -18,41 +18,6 @@
 			"name":"rtete",
 			"type":"TOKEN",
 			"updatedTime":1775310904520
-		},
-		{
-			"createdTime":1775306606589,
-			"grantType":"CLIENT_CREDENTIALS",
-			"input":{
-				"type":"SCHEMA_AND_LAYOUT",
-				"dynamic":false,
-				"layout":{},
-				"schema":{
-					"type":"object",
-					"ua:modal":{
-						"field_type":"STRING",
-						"is_optional":false
-					},
-					"properties":{
-						"wwe":{
-							"type":"string",
-							"title":"Wwe"
-						},
-						"grantType":{
-							"type":"string",
-							"title":"Grant Type",
-							"const":"CLIENT_CREDENTIALS",
-							"ua:oauthGrantTypeField":true,
-							"ua:hideInSchemaGenerator":true
-						}
-					},
-					"required":[
-						"wwe"
-					]
-				}
-			},
-			"name":"hello",
-			"type":"OAUTH",
-			"updatedTime":1775311027673
 		}
 	],
 	"createdTime":1775297405690,
@@ -62,10 +27,10 @@
 	"lastModifiedBy":67744,
 	"lcName":"connectorchecknew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775311027674,
+	"modifiedTime":1775311292657,
 	"name":"ConnectorCheckNew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":38
+	"version":39
 }
