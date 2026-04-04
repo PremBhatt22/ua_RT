@@ -6,11 +6,17 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"new",
 			"type":"TOKEN",
-			"updatedTime":1775301838116
+			"updatedTime":1775301998498
 		}
 	],
 	"createdTime":1775301824022,
@@ -20,10 +26,10 @@
 	"lastModifiedBy":426,
 	"lcName":"dnd_abhay",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775301838117,
+	"modifiedTime":1775301998499,
 	"name":"dnd_abhay",
 	"ownerUserId":426,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
