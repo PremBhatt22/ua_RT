@@ -12,12 +12,23 @@
 					"ua:modal":{
 						"field_type":"STRING",
 						"is_optional":false
-					}
+					},
+					"properties":{
+						"clientID":{
+							"type":"string",
+							"title":"Client ID"
+						},
+						"clientSecret":{
+							"type":"string",
+							"title":"Client Secret"
+						}
+					},
+					"required":[]
 				}
 			},
 			"name":"Oauth ",
 			"type":"OAUTH",
-			"updatedTime":1775312987985
+			"updatedTime":1775313364213
 		}
 	],
 	"createdTime":1775293540544,
@@ -27,10 +38,10 @@
 	"lastModifiedBy":39712,
 	"lcName":"oauth 2.0 test",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775312987986,
+	"modifiedTime":1775313364214,
 	"name":"oauth 2.0 test",
 	"ownerUserId":46218,
 	"standard":false,
 	"standardApp":false,
-	"version":8
+	"version":9
 }
