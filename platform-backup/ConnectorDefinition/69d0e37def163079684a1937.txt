@@ -12,12 +12,21 @@
 					"ua:modal":{
 						"field_type":"STRING",
 						"is_optional":false
-					}
+					},
+					"properties":{
+						"wwe":{
+							"type":"string",
+							"title":"Wwe"
+						}
+					},
+					"required":[
+						"wwe"
+					]
 				}
 			},
 			"name":"hello",
 			"type":"OAUTH",
-			"updatedTime":1775309608408
+			"updatedTime":1775310191335
 		}
 	],
 	"createdTime":1775297405690,
@@ -27,10 +36,10 @@
 	"lastModifiedBy":67744,
 	"lcName":"connectorchecknew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775309608457,
+	"modifiedTime":1775310191337,
 	"name":"ConnectorCheckNew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":29
+	"version":31
 }
