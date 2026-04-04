@@ -13,18 +13,18 @@
 			"updatedTime":1775219408010
 		}
 	],
-	"baseUrl":"https://test.com",
+	"baseUrl":"https://sahihaina.com",
 	"createdTime":1775218873963,
 	"deleted":false,
 	"enabled":false,
 	"id":"69cfb0b9f5ba0e3efde68811",
 	"lastModifiedBy":687,
-	"lcName":"tempconn2",
-	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_02.svg",
-	"modifiedTime":1775294603568,
-	"name":"tempConn2",
+	"lcName":"lagtorahahai",
+	"logo":"gzxcvbnm",
+	"modifiedTime":1775294642320,
+	"name":"lagtorahahai",
 	"ownerUserId":687,
 	"standard":false,
 	"standardApp":false,
-	"version":11
+	"version":12
 }
