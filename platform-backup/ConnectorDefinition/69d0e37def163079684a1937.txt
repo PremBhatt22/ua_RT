@@ -36,7 +36,7 @@
 			},
 			"name":"eff",
 			"type":"OAUTH",
-			"updatedTime":1775315510548
+			"updatedTime":1775315521087
 		}
 	],
 	"createdTime":1775297405690,
@@ -46,10 +46,10 @@
 	"lastModifiedBy":687,
 	"lcName":"connectorchecknew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775315510572,
+	"modifiedTime":1775315521088,
 	"name":"ConnectorCheckNew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":44
+	"version":45
 }
