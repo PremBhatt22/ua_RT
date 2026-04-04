@@ -1,0 +1,15 @@
+{
+	"createdTime":1775297405690,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d0e37def163079684a1937",
+	"lastModifiedBy":195464,
+	"lcName":"connectorchecknew",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775297405690,
+	"name":"ConnectorCheckNew",
+	"ownerUserId":195464,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
