@@ -34,6 +34,18 @@
 			"name":"hello",
 			"type":"OAUTH",
 			"updatedTime":1775310881890
+		},
+		{
+			"createdTime":1775310896522,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"rtete",
+			"type":"TOKEN",
+			"updatedTime":1775310896522
 		}
 	],
 	"createdTime":1775297405690,
@@ -43,10 +55,10 @@
 	"lastModifiedBy":67744,
 	"lcName":"connectorchecknew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775310881891,
+	"modifiedTime":1775310896523,
 	"name":"ConnectorCheckNew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":34
+	"version":35
 }
