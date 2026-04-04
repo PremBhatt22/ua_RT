@@ -1,0 +1,15 @@
+{
+	"createdTime":1775301824022,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d0f4c0234e9810160d7e48",
+	"lastModifiedBy":426,
+	"lcName":"dnd_abhay",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775301824022,
+	"name":"dnd_abhay",
+	"ownerUserId":426,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
