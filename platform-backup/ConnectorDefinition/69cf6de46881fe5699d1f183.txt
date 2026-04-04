@@ -23,20 +23,20 @@
 			},
 			"name":"BearerToken",
 			"type":"TOKEN",
-			"updatedTime":1775201823772
+			"updatedTime":1775301283930
 		}
 	],
 	"createdTime":1775201764587,
 	"deleted":false,
-	"enabled":false,
+	"enabled":true,
 	"id":"69cf6de46881fe5699d1f183",
 	"lastModifiedBy":39714,
 	"lcName":"sdkwithbearertoken",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775201823773,
+	"modifiedTime":1775301283931,
 	"name":"sdkWithBearerToken",
 	"ownerUserId":39714,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":9
 }
