@@ -1,4 +1,18 @@
 {
+	"auths":[
+		{
+			"createdTime":1775297418776,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"premoauth",
+			"type":"OAUTH",
+			"updatedTime":1775297418776
+		}
+	],
 	"createdTime":1775297405690,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +20,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"connectorchecknew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775297405690,
+	"modifiedTime":1775297418778,
 	"name":"ConnectorCheckNew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
