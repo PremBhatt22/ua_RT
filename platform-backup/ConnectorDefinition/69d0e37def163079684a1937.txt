@@ -21,28 +21,35 @@
 		},
 		{
 			"createdTime":1775311298429,
+			"grantType":"AUTHORIZATION_CODE",
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"eff",
 			"type":"OAUTH",
-			"updatedTime":1775311298429
+			"updatedTime":1775313014867
 		}
 	],
 	"createdTime":1775297405690,
 	"deleted":false,
 	"enabled":true,
 	"id":"69d0e37def163079684a1937",
-	"lastModifiedBy":67744,
+	"lastModifiedBy":426,
 	"lcName":"connectorchecknew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775311298430,
+	"modifiedTime":1775313014868,
 	"name":"ConnectorCheckNew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":40
+	"version":42
 }
