@@ -2,15 +2,22 @@
 	"auths":[
 		{
 			"createdTime":1775306503416,
+			"grantType":"CLIENT_CREDENTIALS",
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"hi",
 			"type":"OAUTH",
-			"updatedTime":1775306503416
+			"updatedTime":1775306521523
 		}
 	],
 	"createdTime":1775306492938,
@@ -20,10 +27,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"amipublished",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775306503417,
+	"modifiedTime":1775306521524,
 	"name":"amIPublished",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
