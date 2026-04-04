@@ -17,7 +17,7 @@
 			},
 			"name":"Oauth ",
 			"type":"OAUTH",
-			"updatedTime":1775312941291
+			"updatedTime":1775312973939
 		}
 	],
 	"createdTime":1775293540544,
@@ -27,10 +27,10 @@
 	"lastModifiedBy":39712,
 	"lcName":"oauth 2.0 test",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775312941293,
+	"modifiedTime":1775312973940,
 	"name":"oauth 2.0 test",
 	"ownerUserId":46218,
 	"standard":false,
 	"standardApp":false,
-	"version":6
+	"version":7
 }
