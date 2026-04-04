@@ -17,6 +17,13 @@
 						"wwe":{
 							"type":"string",
 							"title":"Wwe"
+						},
+						"grantType":{
+							"type":"string",
+							"title":"Grant Type",
+							"const":"CLIENT_CREDENTIALS",
+							"ua:oauthGrantTypeField":true,
+							"ua:hideInSchemaGenerator":true
 						}
 					},
 					"required":[
@@ -26,7 +33,7 @@
 			},
 			"name":"hello",
 			"type":"OAUTH",
-			"updatedTime":1775310678717
+			"updatedTime":1775310881890
 		}
 	],
 	"createdTime":1775297405690,
@@ -36,10 +43,10 @@
 	"lastModifiedBy":67744,
 	"lcName":"connectorchecknew",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775310678719,
+	"modifiedTime":1775310881891,
 	"name":"ConnectorCheckNew",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":33
+	"version":34
 }
