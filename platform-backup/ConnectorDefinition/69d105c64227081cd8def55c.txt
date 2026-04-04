@@ -18,19 +18,31 @@
 			"name":"feekanaam",
 			"type":"OAUTH",
 			"updatedTime":1775306271312
+		},
+		{
+			"createdTime":1775319735345,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"test",
+			"type":"CUSTOM",
+			"updatedTime":1775319735345
 		}
 	],
 	"createdTime":1775306182471,
 	"deleted":false,
 	"enabled":true,
 	"id":"69d105c64227081cd8def55c",
-	"lastModifiedBy":195464,
+	"lastModifiedBy":39712,
 	"lcName":"connconn",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775306271313,
+	"modifiedTime":1775319735346,
 	"name":"connConn",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":4
+	"version":8
 }
