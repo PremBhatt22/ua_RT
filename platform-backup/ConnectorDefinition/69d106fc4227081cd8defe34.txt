@@ -1,0 +1,15 @@
+{
+	"createdTime":1775306492938,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d106fc4227081cd8defe34",
+	"lastModifiedBy":195464,
+	"lcName":"amipublished",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775306492938,
+	"name":"amIPublished",
+	"ownerUserId":195464,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
