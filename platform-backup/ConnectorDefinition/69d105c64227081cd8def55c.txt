@@ -2,15 +2,22 @@
 	"auths":[
 		{
 			"createdTime":1775306200921,
+			"grantType":"AUTHORIZATION_CODE",
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"feekanaam",
 			"type":"OAUTH",
-			"updatedTime":1775306200921
+			"updatedTime":1775306243582
 		}
 	],
 	"createdTime":1775306182471,
@@ -20,10 +27,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"connconn",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775306200922,
+	"modifiedTime":1775306243583,
 	"name":"connConn",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":3
 }
