@@ -1,0 +1,16 @@
+{
+	"createdTime":1775293863664,
+	"deleted":false,
+	"description":"For testing and development",
+	"enabled":false,
+	"id":"69d0d5a7fc5d123cbbe21ac3",
+	"lastModifiedBy":195464,
+	"lcName":"oauthprem",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775293863664,
+	"name":"oAuthPrem",
+	"ownerUserId":195464,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
