@@ -1,0 +1,15 @@
+{
+	"createdTime":1775293540544,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d0d464fc5d123cbbe21a7a",
+	"lastModifiedBy":46218,
+	"lcName":"oauth 2.0 test",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775293540544,
+	"name":"oauth 2.0 test",
+	"ownerUserId":46218,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
