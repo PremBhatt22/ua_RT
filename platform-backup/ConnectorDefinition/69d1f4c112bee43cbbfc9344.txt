@@ -1,0 +1,29 @@
+{
+	"auths":[
+		{
+			"createdTime":1775367363939,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"Auth2424598927",
+			"type":"TOKEN",
+			"updatedTime":1775367363939
+		}
+	],
+	"createdTime":1775367361177,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d1f4c112bee43cbbfc9344",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2slack9954674485",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775367363940,
+	"name":"changeSetQA2slack9954674485",
+	"ownerUserId":175325,
+	"standard":false,
+	"standardApp":false,
+	"version":1
+}
