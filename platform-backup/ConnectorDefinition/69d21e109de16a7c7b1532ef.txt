@@ -1,4 +1,19 @@
 {
+	"auths":[
+		{
+			"createdTime":1775377945028,
+			"description":"inforCustom",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"inforCustom",
+			"type":"OAUTH",
+			"updatedTime":1775377945028
+		}
+	],
 	"createdTime":1775377936428,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +21,10 @@
 	"lastModifiedBy":33430,
 	"lcName":"inforcustom",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775377936428,
+	"modifiedTime":1775377945029,
 	"name":"inforCustom",
 	"ownerUserId":33430,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
