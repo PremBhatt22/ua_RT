@@ -1,0 +1,16 @@
+{
+	"baseUrl":"https://grafana.mgt.np.aws.dot.telekom.de",
+	"createdTime":1775378565111,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d220859de16a7c7b153d7a",
+	"lastModifiedBy":4130,
+	"lcName":"test check",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775378565111,
+	"name":"Test Check",
+	"ownerUserId":4130,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
