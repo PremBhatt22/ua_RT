@@ -1,0 +1,15 @@
+{
+	"createdTime":1775377936428,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d21e109de16a7c7b1532ef",
+	"lastModifiedBy":33430,
+	"lcName":"inforcustom",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775377936428,
+	"name":"inforCustom",
+	"ownerUserId":33430,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
