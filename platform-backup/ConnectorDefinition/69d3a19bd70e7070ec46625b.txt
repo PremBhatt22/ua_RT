@@ -2,18 +2,18 @@
 	"auths":[
 		
 	],
-	"baseUrl":"yedekhobhaiyahogaya",
+	"baseUrl":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
 	"createdTime":1775477147921,
 	"deleted":false,
 	"enabled":true,
 	"id":"69d3a19bd70e7070ec46625b",
-	"lastModifiedBy":196465,
+	"lastModifiedBy":4130,
 	"lcName":"test_oath_akshaj",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775481749441,
+	"modifiedTime":1775492748325,
 	"name":"test_oath_akshaj",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":10
+	"version":11
 }
