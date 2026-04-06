@@ -10,10 +10,10 @@
 	"lastModifiedBy":4130,
 	"lcName":"test_oath_akshaj",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775492748325,
+	"modifiedTime":1775492768224,
 	"name":"test_oath_akshaj",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":11
+	"version":12
 }
