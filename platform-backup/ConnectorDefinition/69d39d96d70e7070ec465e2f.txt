@@ -7,11 +7,17 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"Final",
 			"type":"OAUTH",
-			"updatedTime":1775476490368
+			"updatedTime":1775479814543
 		}
 	],
 	"baseUrl":"https://grafana.mgt.np.aws.dot.telekom.de",
@@ -19,13 +25,13 @@
 	"deleted":false,
 	"enabled":true,
 	"id":"69d39d96d70e7070ec465e2f",
-	"lastModifiedBy":4130,
+	"lastModifiedBy":196465,
 	"lcName":"newconnector setup",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775476766801,
+	"modifiedTime":1775479814548,
 	"name":"NewConnector Setup",
 	"ownerUserId":4130,
 	"standard":false,
 	"standardApp":false,
-	"version":7
+	"version":8
 }
