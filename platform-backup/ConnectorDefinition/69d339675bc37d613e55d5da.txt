@@ -35,10 +35,10 @@
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2shopifyendget0672242619",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775450577148,
+	"modifiedTime":1775450645685,
 	"name":"changeSetQA2shopifyendget0672242619",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":5
 }
