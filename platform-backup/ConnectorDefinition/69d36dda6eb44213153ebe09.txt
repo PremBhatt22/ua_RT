@@ -17,7 +17,7 @@
 			},
 			"name":"testing agent",
 			"type":"OAUTH",
-			"updatedTime":1775464239122
+			"updatedTime":1775464269501
 		}
 	],
 	"createdTime":1775463898896,
@@ -27,10 +27,10 @@
 	"lastModifiedBy":39712,
 	"lcName":"test",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775464239124,
+	"modifiedTime":1775464269502,
 	"name":"test",
 	"ownerUserId":39712,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":4
 }
