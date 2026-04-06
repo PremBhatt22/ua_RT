@@ -17,20 +17,20 @@
 			},
 			"name":"SCchecking",
 			"type":"OAUTH",
-			"updatedTime":1775464644245
+			"updatedTime":1775466996508
 		}
 	],
 	"createdTime":1775464527654,
 	"deleted":false,
-	"enabled":false,
+	"enabled":true,
 	"id":"69d3704f7f2f3d72e3b9b08e",
 	"lastModifiedBy":39712,
 	"lcName":"scchecking",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775464644246,
+	"modifiedTime":1775466996510,
 	"name":"SCchecking",
 	"ownerUserId":39712,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":6
 }
