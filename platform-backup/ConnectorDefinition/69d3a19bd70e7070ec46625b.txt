@@ -1,4 +1,18 @@
 {
+	"auths":[
+		{
+			"createdTime":1775477163986,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"Oath2.0",
+			"type":"OAUTH",
+			"updatedTime":1775477163986
+		}
+	],
 	"createdTime":1775477147921,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +20,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"test_oath_akshaj",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775477147921,
+	"modifiedTime":1775477163987,
 	"name":"test_oath_akshaj",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
