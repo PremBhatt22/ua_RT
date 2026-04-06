@@ -21,10 +21,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"premconnectsgranttype",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775477129492,
+	"modifiedTime":1775477165627,
 	"name":"premconnectsgranttype",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":7
+	"version":8
 }
