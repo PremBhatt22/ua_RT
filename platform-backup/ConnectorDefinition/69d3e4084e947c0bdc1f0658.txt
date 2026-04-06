@@ -17,7 +17,7 @@
 			},
 			"name":"client_creds",
 			"type":"OAUTH",
-			"updatedTime":1775494915754
+			"updatedTime":1775494934824
 		}
 	],
 	"createdTime":1775494152718,
@@ -27,10 +27,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"oath_test_2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775494915756,
+	"modifiedTime":1775494934825,
 	"name":"oath_test_2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":6
+	"version":7
 }
