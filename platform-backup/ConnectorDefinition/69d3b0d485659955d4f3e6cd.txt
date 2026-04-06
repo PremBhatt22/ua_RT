@@ -1,5 +1,5 @@
 {
-	"baseUrl":"https://grafana.mgt.np.aws.dot.telekom.de",
+	"baseUrl":"https://grafana.com",
 	"createdTime":1775481044620,
 	"deleted":false,
 	"enabled":false,
@@ -7,10 +7,10 @@
 	"lastModifiedBy":4130,
 	"lcName":"newfetch",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775481044620,
+	"modifiedTime":1775492712678,
 	"name":"NewFetch",
 	"ownerUserId":4130,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
