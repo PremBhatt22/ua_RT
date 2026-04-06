@@ -20,17 +20,18 @@
 			"updatedTime":1775481118176
 		}
 	],
+	"baseUrl":"yedekhobhaiyahogaya",
 	"createdTime":1775477147921,
 	"deleted":false,
 	"enabled":true,
 	"id":"69d3a19bd70e7070ec46625b",
-	"lastModifiedBy":196465,
+	"lastModifiedBy":195463,
 	"lcName":"test_oath_akshaj",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775481118177,
+	"modifiedTime":1775481142454,
 	"name":"test_oath_akshaj",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":7
+	"version":9
 }
