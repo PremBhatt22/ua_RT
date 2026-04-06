@@ -28,10 +28,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"oath_test_2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775495851145,
+	"modifiedTime":1775496020599,
 	"name":"oath_test_2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":12
+	"version":13
 }
