@@ -22,10 +22,10 @@
 	"lastModifiedBy":4130,
 	"lcName":"newconnector setup",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775476637389,
+	"modifiedTime":1775476649532,
 	"name":"NewConnector Setup",
 	"ownerUserId":4130,
 	"standard":false,
 	"standardApp":false,
-	"version":5
+	"version":6
 }
