@@ -17,7 +17,7 @@
 			},
 			"name":"Oath2.0",
 			"type":"OAUTH",
-			"updatedTime":1775477223049
+			"updatedTime":1775477225036
 		}
 	],
 	"createdTime":1775477147921,
@@ -27,10 +27,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"test_oath_akshaj",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775477223049,
+	"modifiedTime":1775477225036,
 	"name":"test_oath_akshaj",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":3
 }
