@@ -2,15 +2,22 @@
 	"auths":[
 		{
 			"createdTime":1775477163986,
+			"grantType":"authorization_code",
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"Oath2.0",
 			"type":"OAUTH",
-			"updatedTime":1775477163986
+			"updatedTime":1775477223049
 		}
 	],
 	"createdTime":1775477147921,
@@ -20,10 +27,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"test_oath_akshaj",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775477163987,
+	"modifiedTime":1775477223049,
 	"name":"test_oath_akshaj",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
