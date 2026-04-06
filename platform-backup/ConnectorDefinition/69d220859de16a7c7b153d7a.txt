@@ -1,16 +1,30 @@
 {
+	"auths":[
+		{
+			"createdTime":1775456960216,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"test",
+			"type":"OAUTH",
+			"updatedTime":1775456960216
+		}
+	],
 	"baseUrl":"https://grafana.mgt.np.aws.dot.telekom.de",
 	"createdTime":1775378565111,
 	"deleted":false,
 	"enabled":false,
 	"id":"69d220859de16a7c7b153d7a",
-	"lastModifiedBy":4130,
+	"lastModifiedBy":39712,
 	"lcName":"test check",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775378565111,
+	"modifiedTime":1775456960248,
 	"name":"Test Check",
 	"ownerUserId":4130,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
