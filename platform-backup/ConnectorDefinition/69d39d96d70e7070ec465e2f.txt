@@ -1,0 +1,16 @@
+{
+	"baseUrl":"https://grafana.mgt.np.aws.dot.telekom.de",
+	"createdTime":1775476118627,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d39d96d70e7070ec465e2f",
+	"lastModifiedBy":4130,
+	"lcName":"newconnector setup",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775476118627,
+	"name":"NewConnector Setup",
+	"ownerUserId":4130,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
