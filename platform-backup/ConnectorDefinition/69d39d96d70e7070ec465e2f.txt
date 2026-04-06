@@ -11,7 +11,7 @@
 			},
 			"name":"Final",
 			"type":"OAUTH",
-			"updatedTime":1775476457855
+			"updatedTime":1775476490368
 		}
 	],
 	"baseUrl":"https://grafana.mgt.np.aws.dot.telekom.de",
@@ -22,10 +22,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"newconnector setup",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775476457856,
+	"modifiedTime":1775476490369,
 	"name":"NewConnector Setup",
 	"ownerUserId":4130,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":3
 }
