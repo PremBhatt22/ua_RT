@@ -18,18 +18,6 @@
 			"name":"hi",
 			"type":"OAUTH",
 			"updatedTime":1775306521523
-		},
-		{
-			"createdTime":1775463627694,
-			"input":{
-				"type":"SCHEMA_AND_LAYOUT",
-				"dynamic":false,
-				"layout":{},
-				"schema":{}
-			},
-			"name":"NewTest Check",
-			"type":"TOKEN",
-			"updatedTime":1775463627694
 		}
 	],
 	"createdTime":1775306492938,
@@ -39,10 +27,10 @@
 	"lastModifiedBy":4130,
 	"lcName":"amipublished",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775463627701,
+	"modifiedTime":1775466460222,
 	"name":"amIPublished",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":5
+	"version":6
 }
