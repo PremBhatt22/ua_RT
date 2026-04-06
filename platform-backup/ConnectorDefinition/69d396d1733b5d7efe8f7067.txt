@@ -1,15 +1,29 @@
 {
+	"auths":[
+		{
+			"createdTime":1775474436405,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"one",
+			"type":"OAUTH",
+			"updatedTime":1775474436405
+		}
+	],
 	"createdTime":1775474385771,
 	"deleted":false,
-	"enabled":false,
+	"enabled":true,
 	"id":"69d396d1733b5d7efe8f7067",
 	"lastModifiedBy":195464,
 	"lcName":"premconnectsgranttype",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775474385771,
+	"modifiedTime":1775474436406,
 	"name":"premconnectsgranttype",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":2
 }
