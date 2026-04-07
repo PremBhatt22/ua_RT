@@ -13,17 +13,18 @@
 			"updatedTime":1775560687894
 		}
 	],
+	"baseUrl":"https://grafana.com",
 	"createdTime":1775560685548,
 	"deleted":false,
 	"enabled":false,
 	"id":"69d4e7ede6f3d1272b41e23a",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":4130,
 	"lcName":"changesetqa2basicauth2k07zi",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775560687895,
+	"modifiedTime":1775578987416,
 	"name":"changeSetQA2BasicAuth2K07Zi",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
