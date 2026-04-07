@@ -1,0 +1,16 @@
+{
+	"baseUrl":"https://dummyjson.com/",
+	"createdTime":1775567838367,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d503de42a77352e65c5597",
+	"lastModifiedBy":195463,
+	"lcName":"testngbaseur;",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775567838367,
+	"name":"testngbaseur;",
+	"ownerUserId":195463,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
