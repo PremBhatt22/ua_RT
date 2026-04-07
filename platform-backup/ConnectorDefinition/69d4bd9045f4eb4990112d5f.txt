@@ -1,0 +1,15 @@
+{
+	"createdTime":1775549840152,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d4bd9045f4eb4990112d5f",
+	"lastModifiedBy":39712,
+	"lcName":"connector_agent ",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775549840152,
+	"name":"Connector_Agent ",
+	"ownerUserId":39712,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
