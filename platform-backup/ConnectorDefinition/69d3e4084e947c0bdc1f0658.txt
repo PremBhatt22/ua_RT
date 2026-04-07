@@ -1,24 +1,6 @@
 {
 	"auths":[
 		{
-			"createdTime":1775544895253,
-			"input":{
-				"type":"SCHEMA_AND_LAYOUT",
-				"dynamic":false,
-				"layout":{},
-				"schema":{
-					"type":"object",
-					"ua:modal":{
-						"field_type":"STRING",
-						"is_optional":false
-					}
-				}
-			},
-			"name":"delete_this_shit_if_you_dont_want_just_testing",
-			"type":"AUTH_10_A",
-			"updatedTime":1775544910881
-		},
-		{
 			"createdTime":1775494176775,
 			"grantType":"client_credentials",
 			"input":{
@@ -46,10 +28,10 @@
 	"lastModifiedBy":195463,
 	"lcName":"oath_test_2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775544910882,
+	"modifiedTime":1775544925936,
 	"name":"oath_test_2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":15
+	"version":16
 }
