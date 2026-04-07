@@ -14,6 +14,7 @@
 			"updatedTime":1775474676255
 		}
 	],
+	"baseUrl":"https://www.base.com",
 	"createdTime":1775474385771,
 	"deleted":false,
 	"enabled":true,
@@ -21,10 +22,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"premconnectsgranttype",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775477165627,
+	"modifiedTime":1775564887505,
 	"name":"premconnectsgranttype",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":8
+	"version":9
 }
