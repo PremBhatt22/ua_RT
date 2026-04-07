@@ -2,15 +2,22 @@
 	"auths":[
 		{
 			"createdTime":1775549848885,
+			"grantType":"authorization_code",
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"sns",
 			"type":"OAUTH",
-			"updatedTime":1775549848885
+			"updatedTime":1775549989641
 		}
 	],
 	"createdTime":1775549840152,
@@ -20,10 +27,10 @@
 	"lastModifiedBy":39712,
 	"lcName":"connector_agent ",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775549848886,
+	"modifiedTime":1775549989642,
 	"name":"Connector_Agent ",
 	"ownerUserId":39712,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
