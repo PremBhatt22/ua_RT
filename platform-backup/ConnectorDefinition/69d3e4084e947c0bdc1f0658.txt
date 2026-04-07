@@ -18,6 +18,18 @@
 			"name":"client_creds",
 			"type":"OAUTH",
 			"updatedTime":1775494934824
+		},
+		{
+			"createdTime":1775544895253,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"delete_this_shit_if_you_dont_want_just_testing",
+			"type":"AUTH_10_A",
+			"updatedTime":1775544895253
 		}
 	],
 	"baseUrl":"https://test.com",
@@ -25,13 +37,13 @@
 	"deleted":false,
 	"enabled":true,
 	"id":"69d3e4084e947c0bdc1f0658",
-	"lastModifiedBy":196465,
+	"lastModifiedBy":195463,
 	"lcName":"oath_test_2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775496020599,
+	"modifiedTime":1775544895258,
 	"name":"oath_test_2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":13
+	"version":14
 }
