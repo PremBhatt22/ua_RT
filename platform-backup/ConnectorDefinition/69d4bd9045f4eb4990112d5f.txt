@@ -17,7 +17,7 @@
 			},
 			"name":"sns",
 			"type":"OAUTH",
-			"updatedTime":1775550282194
+			"updatedTime":1775553262817
 		}
 	],
 	"createdTime":1775549840152,
@@ -27,10 +27,10 @@
 	"lastModifiedBy":39712,
 	"lcName":"connector_agent ",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775550282195,
+	"modifiedTime":1775553262822,
 	"name":"Connector_Agent ",
 	"ownerUserId":39712,
 	"standard":false,
 	"standardApp":false,
-	"version":7
+	"version":9
 }
