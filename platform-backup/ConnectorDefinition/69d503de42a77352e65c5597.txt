@@ -1,5 +1,5 @@
 {
-	"baseUrl":"https://YesIUpdated.com/",
+	"baseUrl":"https://helloworld.com/",
 	"createdTime":1775567838367,
 	"deleted":false,
 	"enabled":false,
@@ -7,10 +7,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"testngbaseur;",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775573997557,
+	"modifiedTime":1775574103620,
 	"name":"testngbaseur;",
 	"ownerUserId":195463,
 	"standard":false,
 	"standardApp":false,
-	"version":10
+	"version":11
 }
