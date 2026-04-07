@@ -20,7 +20,7 @@
 			"updatedTime":1775564206477
 		}
 	],
-	"baseUrl":"https://test.com",
+	"baseUrl":"https://tes222t.com",
 	"createdTime":1775494152718,
 	"deleted":false,
 	"enabled":true,
@@ -28,10 +28,10 @@
 	"lastModifiedBy":191639,
 	"lcName":"oath_test_2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775564206720,
+	"modifiedTime":1775567786180,
 	"name":"oath_test_2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":18
+	"version":19
 }
