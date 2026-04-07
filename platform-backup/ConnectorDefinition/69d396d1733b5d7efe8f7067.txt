@@ -14,18 +14,19 @@
 			"updatedTime":1775474676255
 		}
 	],
-	"baseUrl":"https://www.base.com",
+	"baseUrl":"https://www.base-two.com",
 	"createdTime":1775474385771,
 	"deleted":false,
+	"description":"Demo",
 	"enabled":true,
 	"id":"69d396d1733b5d7efe8f7067",
 	"lastModifiedBy":195464,
 	"lcName":"premconnectsgranttype",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775564887505,
+	"modifiedTime":1775565335525,
 	"name":"premconnectsgranttype",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":9
+	"version":10
 }
