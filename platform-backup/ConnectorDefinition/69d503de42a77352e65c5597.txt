@@ -1,5 +1,5 @@
 {
-	"baseUrl":"https://twoMoreTest.com/",
+	"baseUrl":"https://api-eag-dev2.ua.virtusa.com/api-endpoint/EAGIntegrationRGWebApp/AppExperienceWJ",
 	"createdTime":1775567838367,
 	"deleted":false,
 	"enabled":false,
@@ -7,10 +7,10 @@
 	"lastModifiedBy":191639,
 	"lcName":"testngbaseur;",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775582583097,
+	"modifiedTime":1775582692885,
 	"name":"testngbaseur;",
 	"ownerUserId":195463,
 	"standard":false,
 	"standardApp":false,
-	"version":13
+	"version":14
 }
