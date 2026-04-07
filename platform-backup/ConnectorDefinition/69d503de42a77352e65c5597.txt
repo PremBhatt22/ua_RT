@@ -1,5 +1,5 @@
 {
-	"baseUrl":"https://hello2.com/",
+	"baseUrl":"https://hello3.com/",
 	"createdTime":1775567838367,
 	"deleted":false,
 	"enabled":false,
@@ -7,10 +7,10 @@
 	"lastModifiedBy":195463,
 	"lcName":"testngbaseur;",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775568259234,
+	"modifiedTime":1775568316390,
 	"name":"testngbaseur;",
 	"ownerUserId":195463,
 	"standard":false,
 	"standardApp":false,
-	"version":6
+	"version":7
 }
