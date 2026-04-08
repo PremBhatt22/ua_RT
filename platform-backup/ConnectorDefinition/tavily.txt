@@ -1,0 +1,15 @@
+{
+	"createdTime":1764842742514,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"tavily",
+	"lastModifiedBy":33167,
+	"lcName":"tavily",
+	"modifiedTime":1764842742514,
+	"name":"Tavily",
+	"ownerUserId":33167,
+	"standard":false,
+	"standardApp":true,
+	"version":0
+}
