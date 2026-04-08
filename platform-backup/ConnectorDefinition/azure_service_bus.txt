@@ -1,0 +1,15 @@
+{
+	"createdTime":1764907951088,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":true,
+	"id":"azure_service_bus",
+	"lastModifiedBy":45010,
+	"lcName":"azure service bus",
+	"modifiedTime":1764908354174,
+	"name":"Azure Service Bus",
+	"ownerUserId":45010,
+	"standard":false,
+	"standardApp":true,
+	"version":6
+}
