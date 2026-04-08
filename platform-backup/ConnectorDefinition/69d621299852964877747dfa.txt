@@ -1,4 +1,24 @@
 {
+	"auths":[
+		{
+			"createdTime":1775640902958,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"auth ysh",
+			"type":"OAUTH",
+			"updatedTime":1775640929254
+		}
+	],
 	"createdTime":1775640873771,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +26,10 @@
 	"lastModifiedBy":196190,
 	"lcName":"ysh sdk",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775640873771,
+	"modifiedTime":1775640929255,
 	"name":"ysh sdk",
 	"ownerUserId":196190,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":2
 }
