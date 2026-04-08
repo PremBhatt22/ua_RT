@@ -1,0 +1,18 @@
+{
+	"auths":[
+		
+	],
+	"createdTime":1722865621314,
+	"deleted":false,
+	"enabled":true,
+	"id":"66b0d7d50338837c11fdc88c",
+	"lastModifiedBy":520,
+	"lcName":"go jira test",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1723358451158,
+	"name":"Go Jira Test",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":7
+}
