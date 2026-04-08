@@ -1,0 +1,50 @@
+{
+	"auths":[
+		{
+			"createdTime":1761209946699,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"clientId":{
+							"type":"string",
+							"title":"Client Id"
+						},
+						"clientSecret":{
+							"type":"string",
+							"title":"Client Secret",
+							"format":"password"
+						}
+					},
+					"required":[
+						"clientId",
+						"clientSecret"
+					]
+				}
+			},
+			"name":"oAuth",
+			"type":"OAUTH",
+			"updatedTime":1761213312952
+		}
+	],
+	"createdTime":1761209937497,
+	"deleted":false,
+	"enabled":true,
+	"id":"68f9ee51c003c13b8e96de74",
+	"lastModifiedBy":687,
+	"lcName":"conectormasktest",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1761213312953,
+	"name":"conectormasktest",
+	"ownerUserId":687,
+	"standard":false,
+	"standardApp":false,
+	"version":13
+}
