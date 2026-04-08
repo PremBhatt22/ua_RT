@@ -1,0 +1,35 @@
+{
+	"auths":[
+		{
+			"createdTime":1768375673653,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"fdwe",
+			"type":"BASIC",
+			"updatedTime":1768375678943
+		}
+	],
+	"createdTime":1768375637211,
+	"deleted":false,
+	"enabled":true,
+	"id":"69674555c2b99b48102d5ad3",
+	"lastModifiedBy":308,
+	"lcName":"temp_check",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1768375907256,
+	"name":"temp_check",
+	"ownerUserId":308,
+	"standard":false,
+	"standardApp":false,
+	"version":6
+}
