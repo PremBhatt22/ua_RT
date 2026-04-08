@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342124900,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5ac19d8a25fc18fa77f",
+	"lastModifiedBy":22743,
+	"lcName":"ndutylit1x)(objectclass=*",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342124900,
+	"name":"ndutylit1x)(objectClass=*",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
