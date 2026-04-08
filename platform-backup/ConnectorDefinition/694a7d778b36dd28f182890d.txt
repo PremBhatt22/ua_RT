@@ -1,0 +1,36 @@
+{
+	"auths":[
+		{
+			"createdTime":1766489480334,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"access_token_auth",
+			"type":"TOKEN",
+			"updatedTime":1766489520796
+		}
+	],
+	"baseUrl":"https://api.ziphq.com",
+	"createdTime":1766489463097,
+	"deleted":false,
+	"enabled":true,
+	"id":"694a7d778b36dd28f182890d",
+	"lastModifiedBy":193869,
+	"lcName":"zip_testing_connector",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1766489599079,
+	"name":"zip_testing_connector",
+	"ownerUserId":193869,
+	"standard":false,
+	"standardApp":false,
+	"version":4
+}
