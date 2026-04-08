@@ -1,0 +1,47 @@
+{
+	"auths":[
+		{
+			"createdTime":1758622467616,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"authToken":{
+							"type":"string",
+							"title":"Auth Token",
+							"help":"Auth token for accessing OpenRouter APIs"
+						}
+					},
+					"required":[
+						"authToken"
+					]
+				}
+			},
+			"name":"Auth Token",
+			"type":"TOKEN",
+			"updatedTime":1758712124259
+		}
+	],
+	"baseUrl":"https://openrouter.ai/api",
+	"createdTime":1758728124548,
+	"deleted":false,
+	"description":"Open Router",
+	"enabled":true,
+	"id":"68d25b7292f84e12c9e6c71e",
+	"lastModifiedBy":125298,
+	"lcName":"open router",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1758728124633,
+	"name":"Open Router",
+	"ownerUserId":125298,
+	"standard":false,
+	"standardApp":false,
+	"version":71
+}
