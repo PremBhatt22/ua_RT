@@ -1,0 +1,15 @@
+{
+	"createdTime":1756980988555,
+	"deleted":false,
+	"enabled":true,
+	"id":"68b966fca40f645180218326",
+	"lastModifiedBy":687,
+	"lcName":"dccfd",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1756981343577,
+	"name":"dccfd",
+	"ownerUserId":687,
+	"standard":false,
+	"standardApp":false,
+	"version":4
+}
