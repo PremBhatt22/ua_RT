@@ -1,0 +1,15 @@
+{
+	"createdTime":1764242077959,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"microsoft_fabric_data_lakehouse",
+	"lastModifiedBy":100894,
+	"lcName":"microsoft fabric data lakehouse",
+	"modifiedTime":1764242077959,
+	"name":"Microsoft Fabric Data Lakehouse",
+	"ownerUserId":100894,
+	"standard":false,
+	"standardApp":true,
+	"version":0
+}
