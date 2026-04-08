@@ -1,0 +1,44 @@
+{
+	"auths":[
+		{
+			"createdTime":1737554745027,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"access_token":{
+							"type":"string",
+							"title":"Access Token"
+						}
+					},
+					"required":[
+						"access_token"
+					]
+				}
+			},
+			"name":"rechargetoken",
+			"type":"TOKEN",
+			"updatedTime":1737554864788
+		}
+	],
+	"createdTime":1737554734125,
+	"deleted":true,
+	"enabled":false,
+	"id":"6790fb2ef7dcd605c56ba20b",
+	"lastModifiedBy":47186,
+	"lcName":"accesstoken",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1737554920514,
+	"name":"accesstoken",
+	"ownerUserId":47186,
+	"standard":false,
+	"standardApp":false,
+	"version":5
+}
