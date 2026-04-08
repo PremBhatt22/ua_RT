@@ -1,0 +1,35 @@
+{
+	"auths":[
+		{
+			"createdTime":1759820486426,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"sakshi",
+			"type":"OAUTH",
+			"updatedTime":1759824335088
+		}
+	],
+	"createdTime":1759820477869,
+	"deleted":false,
+	"enabled":false,
+	"id":"68e4babd0676a552c2171009",
+	"lastModifiedBy":45010,
+	"lcName":"sakshi",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1759824335122,
+	"name":"sakshi",
+	"ownerUserId":161930,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
