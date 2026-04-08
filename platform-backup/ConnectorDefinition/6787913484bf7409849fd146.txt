@@ -1,0 +1,29 @@
+{
+	"auths":[
+		{
+			"createdTime":1736937815362,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"password",
+			"type":"BASIC",
+			"updatedTime":1736937815362
+		}
+	],
+	"createdTime":1736937780733,
+	"deleted":true,
+	"enabled":false,
+	"id":"6787913484bf7409849fd146",
+	"lastModifiedBy":43502,
+	"lcName":"iiiotta",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1736937955728,
+	"name":"iiiOttA",
+	"ownerUserId":43502,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
