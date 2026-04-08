@@ -1,0 +1,15 @@
+{
+	"createdTime":1767972926218,
+	"deleted":true,
+	"enabled":true,
+	"id":"6961203ea32eb06422a16c0b",
+	"lastModifiedBy":308,
+	"lcName":"abcd",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1768034672354,
+	"name":"abcd",
+	"ownerUserId":308,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
