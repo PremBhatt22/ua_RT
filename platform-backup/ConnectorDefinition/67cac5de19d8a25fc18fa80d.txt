@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342174834,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5de19d8a25fc18fa80d",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"http://s4xz769z52ksxautgr9tredaf1lu9v0jq7iu9iy.oastify.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342174834,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
