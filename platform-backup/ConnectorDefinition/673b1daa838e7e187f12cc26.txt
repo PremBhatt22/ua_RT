@@ -1,0 +1,15 @@
+{
+	"createdTime":1731927466905,
+	"deleted":false,
+	"enabled":false,
+	"id":"673b1daa838e7e187f12cc26",
+	"lastModifiedBy":520,
+	"lcName":"kp test",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1731927466905,
+	"name":"kp test",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
