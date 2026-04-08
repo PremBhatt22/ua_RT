@@ -1,0 +1,35 @@
+{
+	"auths":[
+		{
+			"createdTime":1739446001248,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"Dhrupal",
+			"type":"BASIC",
+			"updatedTime":1739446039127
+		}
+	],
+	"createdTime":1739445859862,
+	"deleted":false,
+	"enabled":false,
+	"id":"67add6639f5a6f6c7d3004ee",
+	"lastModifiedBy":49915,
+	"lcName":"dhrupal",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1739446039137,
+	"name":"Dhrupal",
+	"ownerUserId":49915,
+	"standard":false,
+	"standardApp":false,
+	"version":3
+}
