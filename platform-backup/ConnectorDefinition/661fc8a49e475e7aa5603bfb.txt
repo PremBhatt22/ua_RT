@@ -1,0 +1,29 @@
+{
+	"auths":[
+		
+	],
+	"baseUrl":"https://api.openweathermap.org/data/2.5/weather",
+	"createdTime":1713359012489,
+	"deleted":true,
+	"enabled":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"id":"661fc8a49e475e7aa5603bfb",
+	"lastModifiedBy":5,
+	"lcName":"api open weather",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1714301854945,
+	"name":"API Open Weather",
+	"ownerUserId":32,
+	"standard":false,
+	"standardApp":false,
+	"version":9
+}
