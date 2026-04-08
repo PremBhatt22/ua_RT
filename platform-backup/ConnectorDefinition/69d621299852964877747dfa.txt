@@ -17,7 +17,7 @@
 			},
 			"name":"auth ysh",
 			"type":"OAUTH",
-			"updatedTime":1775641017087
+			"updatedTime":1775641029795
 		}
 	],
 	"createdTime":1775640873771,
@@ -27,10 +27,10 @@
 	"lastModifiedBy":196190,
 	"lcName":"ysh sdk",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775641017088,
+	"modifiedTime":1775641029796,
 	"name":"ysh sdk",
 	"ownerUserId":196190,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":4
 }
