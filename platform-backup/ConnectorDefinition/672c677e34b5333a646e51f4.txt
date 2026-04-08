@@ -1,0 +1,29 @@
+{
+	"auths":[
+		{
+			"createdTime":1730968794276,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"dfg",
+			"type":"TOKEN",
+			"updatedTime":1730968794276
+		}
+	],
+	"createdTime":1730963326878,
+	"deleted":false,
+	"enabled":false,
+	"id":"672c677e34b5333a646e51f4",
+	"lastModifiedBy":520,
+	"lcName":"sarth111",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1730968794281,
+	"name":"sarth111",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":1
+}
