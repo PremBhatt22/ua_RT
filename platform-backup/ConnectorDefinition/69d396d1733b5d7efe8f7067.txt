@@ -12,6 +12,18 @@
 			"name":"one",
 			"type":"OAUTH",
 			"updatedTime":1775474676255
+		},
+		{
+			"createdTime":1775652654681,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"qq",
+			"type":"CUSTOM",
+			"updatedTime":1775652654681
 		}
 	],
 	"baseUrl":"https://www.amiupdated.com",
@@ -23,10 +35,10 @@
 	"lastModifiedBy":195464,
 	"lcName":"premconnectsgranttype",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775573963693,
+	"modifiedTime":1775652654690,
 	"name":"premconnectsgranttype",
 	"ownerUserId":195464,
 	"standard":false,
 	"standardApp":false,
-	"version":27
+	"version":28
 }
