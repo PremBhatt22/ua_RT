@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/zgjZCdeP",
+	"createdTime":1741334897331,
+	"deleted":false,
+	"description":"qvaqcL",
+	"enabled":false,
+	"id":"67caa971b8a3852f709fe5ed",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"file:///c:/windows/win.ini",
+	"modifiedTime":1741334897331,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
