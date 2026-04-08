@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342079404,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac57f19d8a25fc18fa708",
+	"lastModifiedBy":22743,
+	"lcName":"qnu3z{{589*159}}ylel3",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342079404,
+	"name":"qnu3z{{589*159}}ylel3",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
