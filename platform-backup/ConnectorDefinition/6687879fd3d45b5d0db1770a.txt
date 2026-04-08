@@ -1,0 +1,34 @@
+{
+	"auths":[
+		{
+			"createdTime":1720158119727,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"akma4",
+			"type":"TOKEN",
+			"updatedTime":1720158119727
+		}
+	],
+	"createdTime":1720158111812,
+	"deleted":false,
+	"enabled":true,
+	"grants":{
+		"configs":[
+			
+		]
+	},
+	"id":"6687879fd3d45b5d0db1770a",
+	"lastModifiedBy":-1,
+	"lcName":"akma4",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1721681183615,
+	"name":"akma4",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":6
+}
