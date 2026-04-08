@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG",
+	"createdTime":1741509478690,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd53663aa5057dd6e7d234",
+	"lastModifiedBy":22743,
+	"lcName":"%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cwindows%5cwin.ini",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509478690,
+	"name":"%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cwindows%5cwin.ini",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
