@@ -1,0 +1,15 @@
+{
+	"createdTime":1775636413874,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d60fbd9852964877744c2b",
+	"lastModifiedBy":195463,
+	"lcName":"testing rhythm",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775636413874,
+	"name":"testing rhythm",
+	"ownerUserId":195463,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
