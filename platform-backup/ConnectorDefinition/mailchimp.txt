@@ -1,0 +1,15 @@
+{
+	"createdTime":1762533860979,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"mailchimp",
+	"lastModifiedBy":46209,
+	"lcName":"mailchimp",
+	"modifiedTime":1762533860979,
+	"name":"Mailchimp",
+	"ownerUserId":46209,
+	"standard":true,
+	"standardApp":true,
+	"version":0
+}
