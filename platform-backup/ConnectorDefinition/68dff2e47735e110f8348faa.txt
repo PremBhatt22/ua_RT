@@ -1,0 +1,29 @@
+{
+	"auths":[
+		{
+			"createdTime":1759507201939,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"OAuth 2.0",
+			"type":"OAUTH",
+			"updatedTime":1759507201939
+		}
+	],
+	"createdTime":1759507172645,
+	"deleted":false,
+	"enabled":false,
+	"id":"68dff2e47735e110f8348faa",
+	"lastModifiedBy":1234,
+	"lcName":"servicenow test (akshat)",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1759507201943,
+	"name":"servicenow test (akshat)",
+	"ownerUserId":1234,
+	"standard":false,
+	"standardApp":false,
+	"version":1
+}
