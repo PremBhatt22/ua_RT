@@ -2,15 +2,22 @@
 	"auths":[
 		{
 			"createdTime":1775675040384,
+			"grantType":"authorization_code",
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"auth_code",
 			"type":"OAUTH",
-			"updatedTime":1775675040384
+			"updatedTime":1775676161953
 		}
 	],
 	"createdTime":1775675026997,
@@ -20,10 +27,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"auth_test1",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775675040385,
+	"modifiedTime":1775676161954,
 	"name":"auth_test1",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
