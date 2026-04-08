@@ -1,0 +1,15 @@
+{
+	"createdTime":1775640873771,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d621299852964877747dfa",
+	"lastModifiedBy":196190,
+	"lcName":"ysh sdk",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775640873771,
+	"name":"ysh sdk",
+	"ownerUserId":196190,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
