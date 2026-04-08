@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342162498,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5d219d8a25fc18fa7ea",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"cjp92<%= 533*549 %>djwam",
+	"modifiedTime":1741342162498,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
