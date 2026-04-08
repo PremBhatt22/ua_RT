@@ -1,4 +1,25 @@
 {
+	"auths":[
+		{
+			"createdTime":1775675094119,
+			"grantType":"password",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"pass_grant",
+			"type":"OAUTH",
+			"updatedTime":1775675263656
+		}
+	],
 	"createdTime":1775675085584,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +27,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"auth_test2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775675085584,
+	"modifiedTime":1775675263657,
 	"name":"auth_test2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":2
 }
