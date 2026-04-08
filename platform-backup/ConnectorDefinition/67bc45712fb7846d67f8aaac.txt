@@ -1,0 +1,19 @@
+{
+	"auths":[
+		
+	],
+	"baseUrl":"http://universities.hipolabs.com",
+	"createdTime":1740391793642,
+	"deleted":false,
+	"enabled":true,
+	"id":"67bc45712fb7846d67f8aaac",
+	"lastModifiedBy":3952,
+	"lcName":"university",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1740392617128,
+	"name":"University",
+	"ownerUserId":3952,
+	"standard":false,
+	"standardApp":false,
+	"version":14
+}
