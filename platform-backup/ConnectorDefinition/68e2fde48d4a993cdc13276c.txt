@@ -1,0 +1,35 @@
+{
+	"auths":[
+		{
+			"createdTime":1759706597529,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"Auth6828839955",
+			"type":"TOKEN",
+			"updatedTime":1759775937795
+		}
+	],
+	"createdTime":1759706596022,
+	"deleted":true,
+	"enabled":false,
+	"id":"68e2fde48d4a993cdc13276c",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2slck9520186684",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1759786654712,
+	"name":"changeSetQA2slck9520186684",
+	"ownerUserId":175325,
+	"standard":false,
+	"standardApp":false,
+	"version":3
+}
