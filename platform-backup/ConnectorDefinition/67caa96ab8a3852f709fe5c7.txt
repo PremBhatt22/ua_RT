@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/zgjZCdeP",
+	"createdTime":1741334890437,
+	"deleted":false,
+	"description":"qvaqcL",
+	"enabled":false,
+	"id":"67caa96ab8a3852f709fe5c7",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"q94ysku7bk\\\\ljwo7pfkm6",
+	"modifiedTime":1741334890437,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
