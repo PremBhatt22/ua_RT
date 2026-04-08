@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG",
+	"createdTime":1741509470296,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd535e3aa5057dd6e7d1ff",
+	"lastModifiedBy":22743,
+	"lcName":"lhozsa'+eval(compile('for x in range(1):\\n import time\\n time.sleep(20)','a','single'))+'",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509470296,
+	"name":"lhoZsa'+eval(compile('for x in range(1):\\n import time\\n time.sleep(20)','a','single'))+'",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
