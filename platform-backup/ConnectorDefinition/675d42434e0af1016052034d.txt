@@ -1,0 +1,15 @@
+{
+	"createdTime":1734165059090,
+	"deleted":false,
+	"enabled":true,
+	"id":"675d42434e0af1016052034d",
+	"lastModifiedBy":520,
+	"lcName":"wurknow",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1734166405199,
+	"name":"WurkNow",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":7
+}
