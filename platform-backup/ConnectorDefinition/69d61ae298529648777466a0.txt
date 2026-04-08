@@ -1,4 +1,18 @@
 {
+	"auths":[
+		{
+			"createdTime":1775639268613,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"Auth1775639262763",
+			"type":"TOKEN",
+			"updatedTime":1775639268613
+		}
+	],
 	"createdTime":1775639266210,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +20,10 @@
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2shopifyimppost1775639262760",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775639266210,
+	"modifiedTime":1775639268614,
 	"name":"changeSetQA2shopifyimppost1775639262760",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
