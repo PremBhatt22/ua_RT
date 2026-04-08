@@ -1,0 +1,28 @@
+{
+	"auths":[
+		{
+			"createdTime":1759248041488,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{}
+			},
+			"name":"Refresh Token Connection",
+			"type":"CUSTOM",
+			"updatedTime":1759253899983
+		}
+	],
+	"createdTime":1759606148478,
+	"deleted":false,
+	"enabled":true,
+	"id":"688ca0af9097e692e38cc081",
+	"lastModifiedBy":33404,
+	"lcName":"oman registration apis",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1759606148590,
+	"name":"Oman Registration APIs",
+	"ownerUserId":33404,
+	"standard":false,
+	"standardApp":false,
+	"version":142
+}
