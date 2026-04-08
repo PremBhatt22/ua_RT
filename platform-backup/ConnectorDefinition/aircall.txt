@@ -1,0 +1,15 @@
+{
+	"createdTime":1762334127801,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"aircall",
+	"lastModifiedBy":426,
+	"lcName":"aircall",
+	"modifiedTime":1762334127801,
+	"name":"Aircall",
+	"ownerUserId":426,
+	"standard":false,
+	"standardApp":true,
+	"version":0
+}
