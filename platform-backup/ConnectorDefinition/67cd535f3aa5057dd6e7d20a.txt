@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG",
+	"createdTime":1741509471909,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd535f3aa5057dd6e7d20a",
+	"lastModifiedBy":22743,
+	"lcName":"806fbtt2xa&#65;q35y1cru1p",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509471909,
+	"name":"806fbtt2xa&#65;q35y1cru1p",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
