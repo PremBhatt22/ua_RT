@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342130651,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5b219d8a25fc18fa78f",
+	"lastModifiedBy":22743,
+	"lcName":"<mgq xmlns=\"http://a.b/\" xmlns:xsi=\"http://www.w3.org/2001/xmlschema-instance\" xsi:schemalocation=\"http://a.b/ http://dizklrnkjnydbv8eucne5zrvtmzfnge4es6fw3l.oastify.com/mgq.xsd\">mgq</mgq>",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342130651,
+	"name":"<mgq xmlns=\"http://a.b/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://a.b/ http://dizklrnkjnydbv8eucne5zrvtmzfnge4es6fw3l.oastify.com/mgq.xsd\">mgq</mgq>",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
