@@ -1,0 +1,15 @@
+{
+	"createdTime":1758015498980,
+	"deleted":false,
+	"enabled":false,
+	"id":"68c9300a2e17d80327e6fba9",
+	"lastModifiedBy":33444,
+	"lcName":"explore",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1758015498980,
+	"name":"explore",
+	"ownerUserId":33444,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
