@@ -17,7 +17,7 @@
 			},
 			"name":"Oath2.0",
 			"type":"OAUTH",
-			"updatedTime":1775494792146
+			"updatedTime":1775672767420
 		}
 	],
 	"baseUrl":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
@@ -25,13 +25,13 @@
 	"deleted":false,
 	"enabled":true,
 	"id":"69d3a19bd70e7070ec46625b",
-	"lastModifiedBy":196465,
+	"lastModifiedBy":191639,
 	"lcName":"test_oath_akshaj",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775494792147,
+	"modifiedTime":1775672767421,
 	"name":"test_oath_akshaj",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":17
+	"version":19
 }
