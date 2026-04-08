@@ -1,0 +1,56 @@
+{
+	"auths":[
+		{
+			"createdTime":1733481643078,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"test":{
+							"type":"string",
+							"title":"Test"
+						}
+					},
+					"required":[
+						"test"
+					]
+				}
+			},
+			"name":"test",
+			"type":"BASIC",
+			"updatedTime":1733481702457
+		},
+		{
+			"createdTime":1733984486382,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"erft",
+			"type":"TOKEN",
+			"updatedTime":1733984486382
+		}
+	],
+	"createdTime":1733481631977,
+	"deleted":false,
+	"enabled":false,
+	"id":"6752d49fb77f7d246dbadda7",
+	"lastModifiedBy":3951,
+	"lcName":"test connectors",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1733984486388,
+	"name":"test connectors",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":5
+}
