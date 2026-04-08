@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342103971,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac59719d8a25fc18fa751",
+	"lastModifiedBy":22743,
+	"lcName":".../.\\.../.\\.../.\\.../.\\.../.\\.../.\\.../.\\.../.\\.../.\\.../.\\windows/win.ini",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342103971,
+	"name":".../.\\.../.\\.../.\\.../.\\.../.\\.../.\\.../.\\.../.\\.../.\\.../.\\windows/win.ini",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
