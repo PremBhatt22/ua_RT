@@ -1,0 +1,15 @@
+{
+	"createdTime":1768034676185,
+	"deleted":false,
+	"enabled":false,
+	"id":"696211749d6d7215a66826ec",
+	"lastModifiedBy":308,
+	"lcName":"rekdjsfsedx",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1768034676185,
+	"name":"rekdjsfsedx",
+	"ownerUserId":308,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
