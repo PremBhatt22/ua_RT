@@ -1,0 +1,36 @@
+{
+	"auths":[
+		{
+			"createdTime":1729835011565,
+			"description":"rere",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"re",
+			"type":"TOKEN",
+			"updatedTime":1729835029448
+		}
+	],
+	"createdTime":1729835003634,
+	"deleted":false,
+	"enabled":false,
+	"id":"671b2ffbbf5bb9392791e686",
+	"lastModifiedBy":1866,
+	"lcName":"rewre",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1729835029449,
+	"name":"rewre",
+	"ownerUserId":1866,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
