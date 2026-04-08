@@ -1,0 +1,15 @@
+{
+	"createdTime":1764242225082,
+	"deleted":false,
+	"enabled":true,
+	"id":"69283331bc7aa915dd33ccd9",
+	"lastModifiedBy":39712,
+	"lcName":"qwertyqwerty",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1764250361279,
+	"name":"qwertyqwerty",
+	"ownerUserId":39712,
+	"standard":false,
+	"standardApp":false,
+	"version":10
+}
