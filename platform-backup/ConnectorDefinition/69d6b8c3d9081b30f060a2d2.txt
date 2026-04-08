@@ -1,0 +1,15 @@
+{
+	"createdTime":1775679683924,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d6b8c3d9081b30f060a2d2",
+	"lastModifiedBy":191639,
+	"lcName":"auth_code",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775679683924,
+	"name":"auth_code",
+	"ownerUserId":191639,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
