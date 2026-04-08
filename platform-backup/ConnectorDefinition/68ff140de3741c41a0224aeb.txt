@@ -1,0 +1,15 @@
+{
+	"createdTime":1761547277855,
+	"deleted":false,
+	"enabled":false,
+	"id":"68ff140de3741c41a0224aeb",
+	"lastModifiedBy":161877,
+	"lcName":"dsfg",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1761547277855,
+	"name":"dsfg",
+	"ownerUserId":161877,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
