@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342113275,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5a119d8a25fc18fa76c",
+	"lastModifiedBy":22743,
+	"lcName":"../../../../../../../../../../../../../../../../etc/passwd\u0000hsudcq",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342113275,
+	"name":"../../../../../../../../../../../../../../../../etc/passwd\u0000hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
