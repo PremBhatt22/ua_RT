@@ -1,0 +1,15 @@
+{
+	"createdTime":1762717210794,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"sap_rfc",
+	"lastModifiedBy":31268,
+	"lcName":"sap rfc",
+	"modifiedTime":1762717210794,
+	"name":"SAP RFC",
+	"ownerUserId":31268,
+	"standard":true,
+	"standardApp":true,
+	"version":0
+}
