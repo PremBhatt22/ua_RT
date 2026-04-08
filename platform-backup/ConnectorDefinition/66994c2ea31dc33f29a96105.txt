@@ -1,0 +1,49 @@
+{
+	"auths":[
+		{
+			"createdTime":1721322712245,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"fielda":{
+							"type":"string",
+							"title":"Fielda"
+						}
+					},
+					"required":[
+						"fielda"
+					]
+				}
+			},
+			"name":"test auth",
+			"type":"BASIC",
+			"updatedTime":1721323280969
+		}
+	],
+	"createdTime":1721322542684,
+	"deleted":false,
+	"enabled":false,
+	"grants":{
+		"configs":[
+			
+		]
+	},
+	"id":"66994c2ea31dc33f29a96105",
+	"lastModifiedBy":-1,
+	"lcName":"test connecter",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1721681182125,
+	"name":"test connecter",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":4
+}
