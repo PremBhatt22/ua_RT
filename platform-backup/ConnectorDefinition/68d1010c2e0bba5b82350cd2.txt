@@ -1,0 +1,35 @@
+{
+	"auths":[
+		{
+			"createdTime":1758656717053,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"dwdeqw",
+			"type":"OAUTH",
+			"updatedTime":1758656732749
+		}
+	],
+	"createdTime":1758527756504,
+	"deleted":false,
+	"enabled":false,
+	"id":"68d1010c2e0bba5b82350cd2",
+	"lastModifiedBy":687,
+	"lcName":"scscas",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1758656732750,
+	"name":"scscas",
+	"ownerUserId":687,
+	"standard":false,
+	"standardApp":false,
+	"version":10
+}
