@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342131890,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5b319d8a25fc18fa799",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq\r\nbcc:r4wy759y51krx9usgq9srdd9f0lt9u0isbg33tri@oastify.com\r\ngdp: i",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741342131890,
+	"name":"hsuDcq\r\nBCC:r4wy759y51krx9usgq9srdd9f0lt9u0isbg33tri@oastify.com\r\ngdp: i",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
