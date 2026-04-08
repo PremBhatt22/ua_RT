@@ -1,0 +1,18 @@
+{
+	"auths":[
+		
+	],
+	"createdTime":1761727312972,
+	"deleted":false,
+	"enabled":true,
+	"id":"665d9cd26fa6f67b4e222604",
+	"lastModifiedBy":569,
+	"lcName":"zendesk",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1761727313142,
+	"name":"Zendesk",
+	"ownerUserId":569,
+	"standard":false,
+	"standardApp":false,
+	"version":187
+}
