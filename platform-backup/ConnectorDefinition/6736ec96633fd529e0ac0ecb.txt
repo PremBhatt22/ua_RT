@@ -1,0 +1,44 @@
+{
+	"auths":[
+		{
+			"createdTime":1731669119307,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"api_key":{
+							"type":"string",
+							"title":"API Key"
+						}
+					},
+					"required":[
+						"api_key"
+					]
+				}
+			},
+			"name":"API Key",
+			"type":"TOKEN",
+			"updatedTime":1731669803839
+		}
+	],
+	"createdTime":1731652758697,
+	"deleted":false,
+	"enabled":true,
+	"id":"6736ec96633fd529e0ac0ecb",
+	"lastModifiedBy":520,
+	"lcName":"listreports",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1731679318781,
+	"name":"ListReports",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":18
+}
