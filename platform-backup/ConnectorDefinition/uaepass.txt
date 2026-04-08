@@ -1,0 +1,15 @@
+{
+	"createdTime":1768302138116,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"uaepass",
+	"lastModifiedBy":43487,
+	"lcName":"uae pass",
+	"modifiedTime":1768302138116,
+	"name":"UAE Pass",
+	"ownerUserId":43487,
+	"standard":false,
+	"standardApp":true,
+	"version":0
+}
