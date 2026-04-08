@@ -1,0 +1,17 @@
+{
+	"baseUrl":"g7k8n{{.}}e3yho{{..}}bbjme",
+	"createdTime":1741509527499,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd53973aa5057dd6e7d378",
+	"lastModifiedBy":22743,
+	"lcName":"lhozsa",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509527499,
+	"name":"lhoZsa",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
