@@ -1,0 +1,29 @@
+{
+	"auths":[
+		{
+			"createdTime":1733997474053,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"Air Arabia",
+			"type":"OAUTH",
+			"updatedTime":1733997474053
+		}
+	],
+	"createdTime":1733997456988,
+	"deleted":false,
+	"enabled":false,
+	"id":"675ab39040bb4a07c80ea9f8",
+	"lastModifiedBy":34,
+	"lcName":"aa connectors",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1733997474055,
+	"name":"AA Connectors",
+	"ownerUserId":34,
+	"standard":false,
+	"standardApp":false,
+	"version":1
+}
