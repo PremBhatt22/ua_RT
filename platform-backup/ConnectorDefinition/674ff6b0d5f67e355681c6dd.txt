@@ -1,0 +1,54 @@
+{
+	"auths":[
+		{
+			"createdTime":1733294425946,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"Token",
+			"type":"TOKEN",
+			"updatedTime":1733294428700
+		}
+	],
+	"createdTime":1733293744663,
+	"deleted":false,
+	"enabled":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"DEP"
+				],
+				"principalIds":[
+					"1"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"674ff6b0d5f67e355681c6dd",
+	"lastModifiedBy":-1,
+	"lcName":"infra tools",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1734505635593,
+	"name":"Infra Tools",
+	"ownerUserId":1,
+	"standard":false,
+	"standardApp":false,
+	"version":21
+}
