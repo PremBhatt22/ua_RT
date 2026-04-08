@@ -1,0 +1,35 @@
+{
+	"auths":[
+		{
+			"createdTime":1762784958097,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"Oauthtest",
+			"type":"AUTH_10_A",
+			"updatedTime":1762974555600
+		}
+	],
+	"createdTime":1762784947884,
+	"deleted":false,
+	"enabled":true,
+	"id":"6911f6b3124a4c632c5f720c",
+	"lastModifiedBy":161875,
+	"lcName":"netsuites1.0",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1762974557280,
+	"name":"netsuites1.0",
+	"ownerUserId":161875,
+	"standard":false,
+	"standardApp":false,
+	"version":9
+}
