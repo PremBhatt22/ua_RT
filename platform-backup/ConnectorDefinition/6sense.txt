@@ -1,0 +1,15 @@
+{
+	"createdTime":1764860990282,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"6sense",
+	"lastModifiedBy":426,
+	"lcName":"6sense",
+	"modifiedTime":1764860990282,
+	"name":"6sense",
+	"ownerUserId":426,
+	"standard":false,
+	"standardApp":true,
+	"version":0
+}
