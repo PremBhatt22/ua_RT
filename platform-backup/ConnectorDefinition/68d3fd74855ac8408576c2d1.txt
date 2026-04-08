@@ -1,0 +1,29 @@
+{
+	"auths":[
+		{
+			"createdTime":1758723450485,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"der",
+			"type":"JWT",
+			"updatedTime":1758723450485
+		}
+	],
+	"createdTime":1758723444087,
+	"deleted":false,
+	"enabled":true,
+	"id":"68d3fd74855ac8408576c2d1",
+	"lastModifiedBy":45010,
+	"lcName":"gtest",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1758723555315,
+	"name":"gtest",
+	"ownerUserId":45010,
+	"standard":false,
+	"standardApp":false,
+	"version":4
+}
