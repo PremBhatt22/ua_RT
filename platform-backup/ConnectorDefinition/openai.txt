@@ -1,0 +1,15 @@
+{
+	"createdTime":1764062797531,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"openai",
+	"lastModifiedBy":191662,
+	"lcName":"openai",
+	"modifiedTime":1764062797531,
+	"name":"OpenAI",
+	"ownerUserId":191662,
+	"standard":false,
+	"standardApp":true,
+	"version":0
+}
