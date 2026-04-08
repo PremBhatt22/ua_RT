@@ -1,0 +1,16 @@
+{
+	"createdTime":1720003956265,
+	"deleted":true,
+	"description":"tre",
+	"enabled":true,
+	"id":"66852d74e659aa0c90a70781",
+	"lastModifiedBy":520,
+	"lcName":"tyui",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1720004518560,
+	"name":"tyui",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
