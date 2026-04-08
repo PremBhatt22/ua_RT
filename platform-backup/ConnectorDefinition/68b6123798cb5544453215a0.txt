@@ -1,0 +1,15 @@
+{
+	"createdTime":1759606129713,
+	"deleted":false,
+	"enabled":true,
+	"id":"68b6123798cb5544453215a0",
+	"lastModifiedBy":33404,
+	"lcName":"oman | dhamani",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1759606129725,
+	"name":"Oman | Dhamani",
+	"ownerUserId":33404,
+	"standard":false,
+	"standardApp":false,
+	"version":4
+}
