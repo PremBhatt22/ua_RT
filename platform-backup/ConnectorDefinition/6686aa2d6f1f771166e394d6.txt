@@ -1,0 +1,50 @@
+{
+	"auths":[
+		{
+			"createdTime":1720101435723,
+			"description":"sasasa",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"bot_token":{
+							"type":"string",
+							"title":"Bot Token"
+						},
+						"user_token":{
+							"type":"string",
+							"title":"User Token"
+						}
+					},
+					"required":[
+						"bot_token",
+						"user_token"
+					]
+				}
+			},
+			"name":"oiasas",
+			"type":"TOKEN",
+			"updatedTime":1720144732524
+		}
+	],
+	"createdTime":1720101421577,
+	"deleted":true,
+	"enabled":true,
+	"id":"6686aa2d6f1f771166e394d6",
+	"lastModifiedBy":426,
+	"lcName":"test-abhay",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1720155396119,
+	"name":"test-abhay",
+	"ownerUserId":426,
+	"standard":false,
+	"standardApp":false,
+	"version":14
+}
