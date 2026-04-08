@@ -1,0 +1,15 @@
+{
+	"createdTime":1729674315084,
+	"deleted":false,
+	"enabled":false,
+	"id":"6718bc4bbc9e6e77ef545be1",
+	"lastModifiedBy":5,
+	"lcName":"asasa",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1729674315084,
+	"name":"asasa",
+	"ownerUserId":5,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
