@@ -1,0 +1,35 @@
+{
+	"auths":[
+		{
+			"createdTime":1757749713455,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"sdca",
+			"type":"TOKEN",
+			"updatedTime":1757749719269
+		}
+	],
+	"createdTime":1757749709069,
+	"deleted":false,
+	"enabled":true,
+	"id":"68c521cda05ff4057ed60f15",
+	"lastModifiedBy":37018,
+	"lcName":"customconnector13",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1757749742998,
+	"name":"customconnector13",
+	"ownerUserId":37018,
+	"standard":false,
+	"standardApp":false,
+	"version":3
+}
