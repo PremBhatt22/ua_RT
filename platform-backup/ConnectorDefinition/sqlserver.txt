@@ -1,0 +1,15 @@
+{
+	"createdTime":1763409341564,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"sqlserver",
+	"lastModifiedBy":3952,
+	"lcName":"microsoft sql server",
+	"modifiedTime":1763409341564,
+	"name":"Microsoft SQL Server",
+	"ownerUserId":3952,
+	"standard":true,
+	"standardApp":true,
+	"version":0
+}
