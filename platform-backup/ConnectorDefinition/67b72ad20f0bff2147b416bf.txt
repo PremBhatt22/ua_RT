@@ -1,0 +1,15 @@
+{
+	"createdTime":1740057298643,
+	"deleted":false,
+	"enabled":true,
+	"id":"67b72ad20f0bff2147b416bf",
+	"lastModifiedBy":49915,
+	"lcName":"test nav",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1740057638396,
+	"name":"test nav",
+	"ownerUserId":1866,
+	"standard":false,
+	"standardApp":false,
+	"version":1
+}
