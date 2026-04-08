@@ -1,0 +1,29 @@
+{
+	"auths":[
+		{
+			"createdTime":1729505450707,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"test",
+			"type":"BASIC",
+			"updatedTime":1729505450707
+		}
+	],
+	"createdTime":1729505413104,
+	"deleted":false,
+	"enabled":false,
+	"id":"67162885a10a0f279af3f8cc",
+	"lastModifiedBy":3951,
+	"lcName":"nango",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1729505450708,
+	"name":"Nango",
+	"ownerUserId":3951,
+	"standard":false,
+	"standardApp":false,
+	"version":1
+}
