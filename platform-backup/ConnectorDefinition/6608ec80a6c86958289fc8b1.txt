@@ -1,0 +1,77 @@
+{
+	"auths":[
+		{
+			"createdTime":1711870573147,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"schema":{
+					"type":"object",
+					"properties":{
+						"dfmne":{
+							"type":"string",
+							"title":"denebb d"
+						},
+						"cjhsbc":{
+							"type":"string",
+							"title":"sdhjcbhj"
+						},
+						"cmdbsc":{
+							"type":"string",
+							"title":"cdmnbcn"
+						}
+					}
+				}
+			},
+			"name":"test-jwt",
+			"type":"JWT",
+			"updatedTime":1712314272839
+		},
+		{
+			"createdTime":1711862298359,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"schema":{
+					"type":"object",
+					"properties":{
+						"test12":{
+							"type":"string",
+							"title":"test12",
+							"default":"test12"
+						},
+						"test133":{
+							"type":"string",
+							"title":"test133"
+						}
+					}
+				}
+			},
+			"name":"test toke",
+			"type":"TOKEN",
+			"updatedTime":1711881887689
+		}
+	],
+	"createdTime":1711860864205,
+	"deleted":true,
+	"enabled":false,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"id":"6608ec80a6c86958289fc8b1",
+	"lastModifiedBy":34,
+	"lcName":"redirect again!",
+	"modifiedTime":1714473738089,
+	"name":"Redirect Again!",
+	"ownerUserId":32,
+	"standard":false,
+	"standardApp":false,
+	"version":42
+}
