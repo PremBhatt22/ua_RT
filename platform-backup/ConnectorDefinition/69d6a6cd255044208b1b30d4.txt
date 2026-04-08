@@ -17,7 +17,7 @@
 			},
 			"name":"pass_grant",
 			"type":"OAUTH",
-			"updatedTime":1775675855321
+			"updatedTime":1775675876702
 		}
 	],
 	"createdTime":1775675085584,
@@ -27,10 +27,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"auth_test2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775675855322,
+	"modifiedTime":1775675876703,
 	"name":"auth_test2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":9
+	"version":11
 }
