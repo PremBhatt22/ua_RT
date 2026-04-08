@@ -1,0 +1,15 @@
+{
+	"createdTime":1762333971830,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"whatsapp",
+	"lastModifiedBy":426,
+	"lcName":"whatsapp",
+	"modifiedTime":1762333971830,
+	"name":"WhatsApp",
+	"ownerUserId":426,
+	"standard":false,
+	"standardApp":true,
+	"version":0
+}
