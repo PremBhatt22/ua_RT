@@ -1,0 +1,32 @@
+{
+	"auths":[
+		{
+			"createdTime":1722069104347,
+			"description":"asdfsdf",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"hack",
+			"type":"BASIC",
+			"updatedTime":1722069104347
+		}
+	],
+	"baseUrl":"http://169.254.169.254/",
+	"createdTime":1722069047147,
+	"deleted":false,
+	"description":"hackcrew",
+	"enabled":true,
+	"id":"66a4b037a817a775977c9f21",
+	"lastModifiedBy":722,
+	"lcName":"testing1",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1722069109967,
+	"name":"Testing1",
+	"ownerUserId":722,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
