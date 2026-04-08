@@ -1,0 +1,15 @@
+{
+	"createdTime":1762424866181,
+	"deleted":false,
+	"description":"This is a default connector provided by UnifyApps.",
+	"enabled":false,
+	"id":"amazon_kms",
+	"lastModifiedBy":426,
+	"lcName":"amazon kms",
+	"modifiedTime":1762424866181,
+	"name":"Amazon KMS",
+	"ownerUserId":426,
+	"standard":true,
+	"standardApp":true,
+	"version":0
+}
