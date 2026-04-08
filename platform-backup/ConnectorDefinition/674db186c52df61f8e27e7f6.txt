@@ -1,0 +1,45 @@
+{
+	"auths":[
+		{
+			"createdTime":1733144982747,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"key":{
+							"type":"string",
+							"title":"Key",
+							"default":"c2754edc0d3f460c9d7b8202f721f517"
+						}
+					},
+					"required":[
+						"key"
+					]
+				}
+			},
+			"name":"newsAPI",
+			"type":"TOKEN",
+			"updatedTime":1733145384984
+		}
+	],
+	"createdTime":1733144966870,
+	"deleted":false,
+	"enabled":true,
+	"id":"674db186c52df61f8e27e7f6",
+	"lastModifiedBy":43498,
+	"lcName":"news api",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1767004397194,
+	"name":"News API",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":7
+}
