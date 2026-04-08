@@ -1,0 +1,44 @@
+{
+	"auths":[
+		{
+			"createdTime":1764668750422,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"access_token":{
+							"type":"string",
+							"title":"Access Token"
+						}
+					},
+					"required":[
+						"access_token"
+					]
+				}
+			},
+			"name":"token",
+			"type":"TOKEN",
+			"updatedTime":1764668781617
+		}
+	],
+	"createdTime":1764668734666,
+	"deleted":false,
+	"enabled":true,
+	"id":"692eb53e4ea3022aaf5a14b5",
+	"lastModifiedBy":47174,
+	"lcName":"mphasis_test",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1764669201199,
+	"name":"mphasis_test",
+	"ownerUserId":47174,
+	"standard":false,
+	"standardApp":false,
+	"version":13
+}
