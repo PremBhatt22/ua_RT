@@ -17,7 +17,7 @@
 			},
 			"name":"client_creds",
 			"type":"OAUTH",
-			"updatedTime":1775641516738
+			"updatedTime":1775641540673
 		}
 	],
 	"baseUrl":"https://tes222t.com",
@@ -28,10 +28,10 @@
 	"lastModifiedBy":39712,
 	"lcName":"oath_test_2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775641516738,
+	"modifiedTime":1775641540674,
 	"name":"oath_test_2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":21
+	"version":22
 }
