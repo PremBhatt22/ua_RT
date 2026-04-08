@@ -1,0 +1,17 @@
+{
+	"baseUrl":"https://google.com",
+	"createdTime":1725002818937,
+	"deleted":true,
+	"description":"nothing",
+	"enabled":false,
+	"id":"66d174426b78622e06e3b524",
+	"lastModifiedBy":520,
+	"lcName":"nothing",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1725002838536,
+	"name":"nothing",
+	"ownerUserId":520,
+	"standard":false,
+	"standardApp":false,
+	"version":1
+}
