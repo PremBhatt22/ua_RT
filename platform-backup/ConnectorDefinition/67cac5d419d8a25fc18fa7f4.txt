@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342164735,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5d419d8a25fc18fa7f4",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg'+eval(compile('for x in range(1):\\n import time\\n time.sleep(20)','a','single'))+'",
+	"modifiedTime":1741342164735,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
