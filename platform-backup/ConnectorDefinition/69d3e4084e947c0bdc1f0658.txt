@@ -17,7 +17,7 @@
 			},
 			"name":"client_creds",
 			"type":"OAUTH",
-			"updatedTime":1775641540673
+			"updatedTime":1775672589279
 		}
 	],
 	"baseUrl":"https://tes222t.com",
@@ -25,13 +25,13 @@
 	"deleted":false,
 	"enabled":true,
 	"id":"69d3e4084e947c0bdc1f0658",
-	"lastModifiedBy":39712,
+	"lastModifiedBy":191639,
 	"lcName":"oath_test_2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775641540674,
+	"modifiedTime":1775672589327,
 	"name":"oath_test_2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":22
+	"version":25
 }
