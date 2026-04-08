@@ -1,0 +1,16 @@
+{
+	"baseUrl":"https://tekion-sb.ziphq.com/home?tab=upcoming",
+	"createdTime":1766153170010,
+	"deleted":false,
+	"enabled":false,
+	"id":"69455bd2a7dd13783ae51198",
+	"lastModifiedBy":11,
+	"lcName":"dtrdftfchfvvhvbhbhbjh kmkjnbvcxsdfxgchvjbknlm,vhcgxfzdsxfcgvhbjknlm,mknjbhvgcfxdzsddxfcgvhbjnkml,.;;,mnbhjvgcfxdzxzxdfcghvbjk",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1766154912176,
+	"name":"dtrdftfchfvvhvbhbhbjh kmkjnbvcxsdfxgchvjbknlm,vhcgxfzdsxfcgvhbjknlm,mknjbhvgcfxdzsddxfcgvhbjnkml,.;;,mnbhjvgcfxdzxzxdfcghvbjk",
+	"ownerUserId":191252,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
