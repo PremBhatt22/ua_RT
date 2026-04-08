@@ -1,0 +1,35 @@
+{
+	"auths":[
+		{
+			"createdTime":1762845827429,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
+			},
+			"name":"BasicAuth1762845825383",
+			"type":"BASIC",
+			"updatedTime":1762845828734
+		}
+	],
+	"createdTime":1762846063425,
+	"deleted":true,
+	"enabled":true,
+	"id":"6912e481e9775724c0ea93c6",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2basicauthjqn2i9",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1762846553845,
+	"name":"changeSetQA2BasicAuthJQN2i9",
+	"ownerUserId":175325,
+	"standard":false,
+	"standardApp":false,
+	"version":7
+}
