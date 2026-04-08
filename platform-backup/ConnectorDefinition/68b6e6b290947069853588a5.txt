@@ -1,0 +1,15 @@
+{
+	"createdTime":1759606132581,
+	"deleted":false,
+	"enabled":true,
+	"id":"68b6e6b290947069853588a5",
+	"lastModifiedBy":33404,
+	"lcName":"oman | benefits",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1759606132593,
+	"name":"Oman | Benefits",
+	"ownerUserId":33404,
+	"standard":false,
+	"standardApp":false,
+	"version":5
+}
