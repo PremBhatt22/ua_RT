@@ -1,0 +1,50 @@
+{
+	"auths":[
+		{
+			"createdTime":1761229976968,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"username":{
+							"type":"string",
+							"title":"Username"
+						},
+						"password":{
+							"type":"string",
+							"format":"password",
+							"title":"Password"
+						}
+					},
+					"required":[
+						"username",
+						"password"
+					]
+				}
+			},
+			"name":"basic",
+			"type":"BASIC",
+			"updatedTime":1761230031313
+		}
+	],
+	"createdTime":1761229970404,
+	"deleted":false,
+	"enabled":true,
+	"id":"68fa3c92e81605149bcc6865",
+	"lastModifiedBy":30410,
+	"lcName":"sdk test",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1761230037485,
+	"name":"sdk test",
+	"ownerUserId":30410,
+	"standard":false,
+	"standardApp":false,
+	"version":6
+}
