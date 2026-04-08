@@ -1,0 +1,15 @@
+{
+	"createdTime":1740066365885,
+	"deleted":false,
+	"enabled":false,
+	"id":"67b74e3d75570a24c652a052",
+	"lastModifiedBy":7,
+	"lcName":"adsfgh",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1740066365885,
+	"name":"adsfgh",
+	"ownerUserId":7,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
