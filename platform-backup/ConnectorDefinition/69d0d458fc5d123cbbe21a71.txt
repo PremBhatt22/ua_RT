@@ -17,6 +17,18 @@
 			"name":"Parth",
 			"type":"OAUTH",
 			"updatedTime":1775294973314
+		},
+		{
+			"createdTime":1775632582065,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"test",
+			"type":"TOKEN",
+			"updatedTime":1775632582065
 		}
 	],
 	"baseUrl":"https://login.microsoftonline.com",
@@ -27,10 +39,10 @@
 	"lastModifiedBy":4130,
 	"lcName":"redirection check",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775294973316,
+	"modifiedTime":1775632582070,
 	"name":"Redirection Check",
 	"ownerUserId":4130,
 	"standard":false,
 	"standardApp":false,
-	"version":4
+	"version":6
 }
