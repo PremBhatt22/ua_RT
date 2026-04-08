@@ -1,0 +1,17 @@
+{
+	"baseUrl":"http://burpcollaborator.net/SRldPmpG",
+	"createdTime":1741509474860,
+	"deleted":false,
+	"description":"xPciEr",
+	"enabled":false,
+	"id":"67cd53623aa5057dd6e7d21d",
+	"lastModifiedBy":22743,
+	"lcName":"lhozsa|echo jvtpugkyzy on9vchze8m||a #' |echo jvtpugkyzy on9vchze8m||a #|\" |echo jvtpugkyzy on9vchze8m||a #",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1741509474860,
+	"name":"lhoZsa|echo jvtpugkyzy on9vchze8m||a #' |echo jvtpugkyzy on9vchze8m||a #|\" |echo jvtpugkyzy on9vchze8m||a #",
+	"ownerUserId":22743,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
