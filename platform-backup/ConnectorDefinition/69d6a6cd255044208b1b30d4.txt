@@ -27,10 +27,10 @@
 	"lastModifiedBy":196465,
 	"lcName":"auth_test2",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775675876703,
+	"modifiedTime":1775675880959,
 	"name":"auth_test2",
 	"ownerUserId":196465,
 	"standard":false,
 	"standardApp":false,
-	"version":11
+	"version":12
 }
