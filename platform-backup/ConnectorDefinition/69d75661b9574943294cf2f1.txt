@@ -2,15 +2,22 @@
 	"auths":[
 		{
 			"createdTime":1775720046763,
+			"grantType":"authorization_code",
 			"input":{
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					}
+				}
 			},
 			"name":"OAuth2.0",
 			"type":"OAUTH",
-			"updatedTime":1775720046763
+			"updatedTime":1775720189217
 		}
 	],
 	"createdTime":1775720033843,
@@ -20,10 +27,10 @@
 	"lastModifiedBy":191639,
 	"lcName":"greiftest",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775720046768,
+	"modifiedTime":1775720189218,
 	"name":"GreifTest",
 	"ownerUserId":191639,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
