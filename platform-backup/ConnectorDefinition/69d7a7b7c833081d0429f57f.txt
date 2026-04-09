@@ -1,4 +1,18 @@
 {
+	"auths":[
+		{
+			"createdTime":1775740856908,
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{}
+			},
+			"name":"BasicAuth1775740853609",
+			"type":"BASIC",
+			"updatedTime":1775740856908
+		}
+	],
 	"createdTime":1775740855215,
 	"deleted":false,
 	"enabled":false,
@@ -6,10 +20,10 @@
 	"lastModifiedBy":175325,
 	"lcName":"changesetlocalbasicauthg4pzbm",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775740855215,
+	"modifiedTime":1775740856908,
 	"name":"changeSetLocalBasicAuthG4pZbM",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":0
+	"version":1
 }
