@@ -1,0 +1,15 @@
+{
+	"createdTime":1775725154895,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d76a62b9574943294d89fa",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2basicauthto0h0z",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775725154895,
+	"name":"changeSetQA2BasicAuthtO0H0Z",
+	"ownerUserId":175325,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
