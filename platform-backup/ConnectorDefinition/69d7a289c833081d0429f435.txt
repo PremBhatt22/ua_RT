@@ -1,0 +1,15 @@
+{
+	"createdTime":1775739529660,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d7a289c833081d0429f435",
+	"lastModifiedBy":175325,
+	"lcName":"changesetlocalbasicauthfypua6",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775739529660,
+	"name":"changeSetLocalBasicAuthFyPUa6",
+	"ownerUserId":175325,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
