@@ -1,0 +1,15 @@
+{
+	"createdTime":1775739209616,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d7a149c833081d0429ee77",
+	"lastModifiedBy":175325,
+	"lcName":"changesetlocalbasicauth97lzrx",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775739209616,
+	"name":"changeSetLocalBasicAuth97LZrX",
+	"ownerUserId":175325,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
