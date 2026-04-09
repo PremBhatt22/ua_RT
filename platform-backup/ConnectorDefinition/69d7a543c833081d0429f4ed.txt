@@ -1,0 +1,15 @@
+{
+	"createdTime":1775740227739,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d7a543c833081d0429f4ed",
+	"lastModifiedBy":175325,
+	"lcName":"changesetlocalbasicauthtga849",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775740227739,
+	"name":"changeSetLocalBasicAuthTGA849",
+	"ownerUserId":175325,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
