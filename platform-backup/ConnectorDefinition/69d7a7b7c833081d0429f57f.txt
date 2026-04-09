@@ -19,17 +19,17 @@
 			"updatedTime":1775740858061
 		}
 	],
-	"createdTime":1775740855215,
+	"createdTime":1775741122597,
 	"deleted":false,
-	"enabled":false,
+	"enabled":true,
 	"id":"69d7a7b7c833081d0429f57f",
 	"lastModifiedBy":175325,
 	"lcName":"changesetlocalbasicauthg4pzbm",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775740858062,
+	"modifiedTime":1775741122597,
 	"name":"changeSetLocalBasicAuthG4pZbM",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":5
 }
