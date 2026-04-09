@@ -1,0 +1,15 @@
+{
+	"createdTime":1775720033843,
+	"deleted":false,
+	"enabled":false,
+	"id":"69d75661b9574943294cf2f1",
+	"lastModifiedBy":191639,
+	"lcName":"greiftest",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1775720033843,
+	"name":"GreifTest",
+	"ownerUserId":191639,
+	"standard":false,
+	"standardApp":false,
+	"version":0
+}
