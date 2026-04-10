@@ -29,16 +29,16 @@
 		}
 	],
 	"createdTime":1775715596412,
-	"deleted":false,
-	"enabled":false,
+	"deleted":true,
+	"enabled":true,
 	"id":"69d7450c16d6771702fdb272",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2slck5380043548",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775715603680,
+	"modifiedTime":1775718492211,
 	"name":"changeSetQA2slck5380043548",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":2
+	"version":4
 }
