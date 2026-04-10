@@ -1,18 +1,6 @@
 {
 	"auths":[
 		{
-			"createdTime":1775632582065,
-			"input":{
-				"type":"SCHEMA_AND_LAYOUT",
-				"dynamic":false,
-				"layout":{},
-				"schema":{}
-			},
-			"name":"test",
-			"type":"TOKEN",
-			"updatedTime":1775632582065
-		},
-		{
 			"createdTime":1775293538954,
 			"grantType":"authorization_code",
 			"input":{
@@ -37,13 +25,13 @@
 	"deleted":false,
 	"enabled":true,
 	"id":"69d0d458fc5d123cbbe21a71",
-	"lastModifiedBy":4130,
+	"lastModifiedBy":191639,
 	"lcName":"redirection check",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775719645403,
+	"modifiedTime":1775823637727,
 	"name":"Redirection Check",
 	"ownerUserId":4130,
 	"standard":false,
 	"standardApp":false,
-	"version":38
+	"version":39
 }
