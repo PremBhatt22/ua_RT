@@ -15,9 +15,9 @@
 					}
 				}
 			},
-			"name":"Parth",
+			"name":"OAuth 2.0 Mail",
 			"type":"OAUTH",
-			"updatedTime":1775823722927
+			"updatedTime":1775823745770
 		}
 	],
 	"baseUrl":"https://login.microsoftonline.com",
@@ -28,10 +28,10 @@
 	"lastModifiedBy":191639,
 	"lcName":"redirection check",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775823722928,
+	"modifiedTime":1775823745771,
 	"name":"Redirection Check",
 	"ownerUserId":4130,
 	"standard":false,
 	"standardApp":false,
-	"version":40
+	"version":41
 }
