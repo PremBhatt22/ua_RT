@@ -14,16 +14,16 @@
 		}
 	],
 	"createdTime":1775717324807,
-	"deleted":false,
+	"deleted":true,
 	"enabled":false,
 	"id":"69d74bcc16d6771702fdde0b",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2basicauthhfopi1",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775717327550,
+	"modifiedTime":1775718491622,
 	"name":"changeSetQA2BasicAuthHfOpi1",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
