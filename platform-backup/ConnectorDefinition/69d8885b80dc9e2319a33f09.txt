@@ -30,16 +30,16 @@
 	],
 	"baseUrl":"https://1vz6yg-pf.myshopify.com",
 	"createdTime":1775798438138,
-	"deleted":false,
+	"deleted":true,
 	"enabled":true,
 	"id":"69d8885b80dc9e2319a33f09",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2shopifyendget1775798360220",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775798438138,
+	"modifiedTime":1775798483303,
 	"name":"changeSetQA2shopifyendget1775798360220",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":3
+	"version":5
 }
