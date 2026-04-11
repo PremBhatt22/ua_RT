@@ -6,11 +6,26 @@
 				"type":"SCHEMA_AND_LAYOUT",
 				"dynamic":false,
 				"layout":{},
-				"schema":{}
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"PAT":{
+							"type":"string",
+							"title":"PAT"
+						}
+					},
+					"required":[
+						"PAT"
+					]
+				}
 			},
 			"name":"Auth1775888201881",
 			"type":"TOKEN",
-			"updatedTime":1775888208128
+			"updatedTime":1775888212536
 		}
 	],
 	"createdTime":1775888205643,
@@ -20,10 +35,10 @@
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2slck8309207618",
 	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
-	"modifiedTime":1775888208138,
+	"modifiedTime":1775888212537,
 	"name":"changeSetQA2slck8309207618",
 	"ownerUserId":175325,
 	"standard":false,
 	"standardApp":false,
-	"version":1
+	"version":2
 }
